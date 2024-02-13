@@ -1,11 +1,8 @@
 {
-    "name": "AcEStREAM iDs",
-    "author": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-    "url": "https://pastebin.com/36jGppfm",
+    "name": "XESC IDS",
+    "author": "xesc",
     "image": "https://images3.alphacoders.com/595/595865.jpg",
-    "telegram": "Lista_AF1CIONADOS",
-    "info": "Lista recopilada de Ids. bY. Lukas",
-    "groups": [
+    "stations": [
         {
                     "name": "DAZN LaLiga [1080][Multiaudio]",
                     "info": "290a",
