@@ -1,0 +1,22 @@
+{
+    "name": "AcEStREAM iDs",
+    "author": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
+    "url": "https://pastebin.com/36jGppfm",
+    "image": "https://images3.alphacoders.com/595/595865.jpg",
+    "telegram": "Lista_AF1CIONADOS",
+    "info": "Lista recopilada de Ids. bY. Lukas",
+    "groups": [
+        {
+                    "name": "DAZN LaLiga [1080][Multiaudio]",
+                    "info": "290a",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+                },
+                {
+                    "name": "DAZN LaLiga [1080][Multiaudio]",
+                    "info": "0c96",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+                }
+            ]
+        }
