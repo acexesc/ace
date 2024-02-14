@@ -1,7 +1,7 @@
 {
     "name": "XESC IDS",
     "author": "xesc",
-    "image": "https://images3.alphacoders.com/595/595865.jpg",
+    "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
     "stations": [
         {
                     "name": "DAZN LaLiga [1080][Multiaudio]",
