@@ -1,7 +1,7 @@
 {
     "name": "XESC IDS",
     "author": "xesc",
-    "url": "https://raw.githubusercontent.com/acexesc/ace/main/share.txt"
+    "url": "https://raw.githubusercontent.com/acexesc/ace/main/share.txt",
     "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
     "stations": [
         {
