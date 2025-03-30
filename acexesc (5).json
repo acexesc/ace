@@ -1,0 +1,826 @@
+{
+  "name": "⚽🏀 XESC List 🏁🥎",
+  "author": "xesc",
+  "url": "https://pastebin.com/g6T4Gvai",
+  "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+  "groups": [
+    {
+   	"name": "TVBAR",
+	"image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
+    "stations": [
+        {
+          "name": "TVBAR                 FullHD",
+          "image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
+          "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+        },
+        {
+          "name": "TVBAR                 Mirror FullHD",
+          "image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
+          "url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
+        },
+        {
+          "name": "TVBAR                 HD",
+          "image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
+          "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+        }
+      ]
+    },
+    {
+   	"name": "DAZN LaLiga",
+	"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+  	"stations": [
+        {
+          "name": "DAZN LaLiga                 FullHD",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+        },
+        {
+          "name": "DAZN LaLiga                  FullHD Mirror 1",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+        },
+        {
+          "name": "DAZN LaLiga                   FullHD Mirror 2",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+        },
+        {
+          "name": "DAZN LaLiga                   FullHD Mirror 3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c"
+        },
+        {
+          "name": "DAZN LaLiga                   FullHD Mirror 4",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0"
+        },
+        {
+          "name": "DAZN LaLiga                   FullHD Mirror 5",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6"
+        },
+        {
+          "name": "DAZN LaLiga                 HD",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
+        },
+        {
+          "name": "DAZN LaLiga                 Mirror HD",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://a5144874f66a0872fd0b5a484cd426eb7d8eaa26"
+        },
+        {
+          "name": "DAZN LaLiga 2                 FullHD",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
+        },
+        {
+          "name": "DAZN LaLiga 2                 FullHD Mirror 1",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://fb51ef5294e99767811a3fa95a1933fb864e9ff3"
+        }
+      ]
+    },
+    {
+    "name": "M+ LaLiga/Copa",
+	"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+    "stations": [
+        {
+          "name": "M+ LaLiga                 FullHD",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+        },
+        {
+          "name": "M+ LaLiga                 FullHD Mirror 1",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+        },
+        {
+          "name": "M+ LaLiga                 FullHD Mirror 2",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
+        },
+        {
+          "name": "M+ LaLiga                 HD",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+        },
+        {
+          "name": "M+ LaLiga                  HD Mirror 1",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://7c70daff87373a903d92490ad3dc811723969e08"
+        },
+        {
+          "name": "M+ SuperCopa                 FullHD",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
+          "url": "acestream://c0803ffef120a6ec036329ce3fe2e95018cc5958"
+        },
+        {
+          "name": "M+ SuperCopa                 FullHD Mirror 1",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
+          "url": "acestream://99364e3a5ed2afc8421dfa6332df194761166c03"
+        },
+        {
+          "name": "M+ SuperCopa                 FullHD Mirror 2",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
+          "url": "acestream://20d44589bc1e51ffb60d2cd98fb24019c6736772"
+        },
+        {
+          "name": "M+ SuperCopa                 FullHD Mirror 3",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
+          "url": "acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6"
+        },
+        {
+          "name": "M+ SuperCopa                 FullHD Mirror 4",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
+          "url": "acestream://2dcc9fa21935872130029206395a12cd10533a75"
+        }
+      ]
+    },
+    {
+    "name": "M+ Champions",
+	"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+    "stations": [
+        {
+          "name": "M+ Champions 1                 FullHD",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
+        },
+        {
+          "name": "M+ Champions 1                  FullHD Mirror 1",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://775abd8697715c48a357906d40734ccd2a10513c"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 2",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 3",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 4",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ec6ce96a4e4eb523108418a84babc9eca4b4c507"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 5",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://05057e832dd1530c7d5e8b0857fee6826243a243"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 6",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85"
+        },
+		{
+          "name": "M+ Champions 1                  FullHD Mirror 7",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b"
+        },
+        {
+          "name": "M+ Champions 1                 HD",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://8edb264520569b2280c5e86b2dc734e120032903"
+        },
+        {
+          "name": "M+ Champions 2                 FullHD",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c070cdb701fc46bb79d17568d99fc64620443d63"
+        },
+        {
+          "name": "M+ Champions 2                 FullHD Mirror 1",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://deb8972491e3817ba2335662d7855d2c2c05a900"
+        },
+        {
+          "name": "M+ Champions 2                 HD",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+        }
+      ]
+    },
+    {
+    "name": "M+Deportes/Vamos",
+	"image": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/76/36/8f763642-25ea-74f8-9305-203aee521d55/source/256x256bb.jpg",
+    "stations": [
+        		{
+                    "name": "M+ Deportes 1                 FullHD",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
+                },
+				{
+                    "name": "M+ Deportes 1                 FullHD Mirror 1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65"
+                },
+				{
+                    "name": "M+ Deportes 1                 FullHD Mirror 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232"
+                },
+				{
+                    "name": "M+ Deportes 1                 FullHD Mirror 3",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://54470f2db47abeff1f809a0a7262e6f7d7796a4e"
+                },
+				{
+                    "name": "M+ Deportes 1                 FullHD Mirror 4",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://0f771c30336a0506c74f4aa86762edcb94d21fac"
+                },
+                {
+                    "name": "M+ Deportes 1                 HD",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
+                },
+                {
+                    "name": "M+ Deportes 1                 HD Mirror 1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png",
+                    "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
+                },
+                {
+                    "name": "M+ Deportes 2                 FullHD",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
+                    "url": "acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7"
+                },
+				{
+                    "name": "M+ Deportes 2                 Mirror FullHD",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
+                    "url": "acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3"
+                },				
+{
+                    "name": "M+ Deportes 3                 FullHD",
+                    "image": "https://deporte-libre.top/img/mdeportes3.png",
+                    "url": "acestream://985896872c52d04030c112ca99584046d022a349"
+                },
+        		{
+                    "name": "Vamos                 FullHD",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
+                },
+				{
+                    "name": "Vamos                 FullHD Mirror 1",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d"
+                },
+				{
+                    "name": "Vamos                 FullHD Mirror 2",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://6bd7e177c31e1d85a97a258059616bbb7ffecb13"
+                },
+				{
+                    "name": "Vamos                 FullHD Mirror 3",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://c6b52ffb3b84836d334569204797d88bf15d48fa"
+                },
+				{
+                    "name": "Vamos                 FullHD Mirror 4",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77"
+                },
+				{
+                    "name": "Vamos                 FullHD Mirror 5",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f"
+                },
+                {
+                    "name": "Vamos                    HD",
+                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+                    "url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
+                },
+				{
+                    "name": "Vamos Ellas                 FullHD",
+                    "image": "https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png",
+                    "url": "acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f"
+                },
+				{
+                    "name": "Vamos Ellas                 FullHD Mirror 1",
+                    "image": "https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png",
+                    "url": "acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368"
+                }
+      ]
+    },
+    {
+    "name": "Dazn",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "stations": [
+        		{
+                    "name": "Dazn 1                 FullHD",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5"
+                },
+        		{
+                    "name": "Dazn 1                 FullHD Mirror 1",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+                },
+        		{
+                    "name": "Dazn 1                 FullHD Mirror 2",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://05dc5ce12eb6329fad1fae4430b8742b47cb90d9"
+                },
+        		{
+                    "name": "Dazn 1                 FullHD Mirror 3",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0"
+                },
+        		{
+                    "name": "Dazn 1                 FullHD Mirror 4",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421"
+                },
+				{
+                    "name": "Dazn 1                 HD",
+                    "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+                    "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+                },
+				{
+                    "name": "Dazn Eventos 1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+                    "url": "acestream://9a81584b459dbcf71f765463cccd643c59894d74"
+                },				
+				{
+                    "name": "Dazn Eventos 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+                    "url": "acestream://7a90838e67f415e70fd7c9bb87edeb2da5db1725"
+                },
+                {
+                    "name": "Dazn F1                 FullHD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+                },
+                {
+                    "name": "Dazn F1                 Mirror FullHD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+                },
+				{
+                    "name": "Dazn F1                 Mirror 2 FullHD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://Od7cccccdad350befOac65ec37bf55a18d4865a8"
+                },
+				{
+                    "name": "Dazn F1                 Mirror 3 FullHD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://751aa1f2429dfb9484b67a3ede00d859c6212994"
+                },
+				{
+                    "name": "Dazn F1                 Mirror 4 FullHD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://c367738691c63896679e523d4c1c7933729acc7b"
+                },
+				{
+                    "name": "Dazn F1                 HD",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+                },
+				{
+                    "name": "Dazn F1 Multicamara",
+                    "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+                    "url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
+                }
+      ]
+    },
+    {
+    "name": "Movistar+",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
+    "stations": [
+                {
+                    "name": "M+ Plus",
+                    "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+                    "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+                },
+                {
+                    "name": "M+ Plus                Mirror 1",
+                    "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+                    "url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f"
+                },
+                {
+                    "name": "M+ Comedia",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    "url": "acestream://bed9a9fc8e9d07a65591c0e8c31cb558a029f985"
+                },
+                {
+                    "name": "M+ Accion",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    "url": "acestream://de88ed8716612d9c548df63a168fbdd96843dd20"
+                },
+                {
+                    "name": "M+ Clasicos",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    "url": "acestream://62b6cdc347e9b5f5aff089055365805e4d20d41e"
+                },
+                {
+                    "name": "M+ Series",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/512px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
+                    "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254"
+                },
+                {
+                    "name": "M+ Golf",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/512px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    "url": "acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d"
+                },
+				{
+                    "name": "Hypermotion 1            FullHD ",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+                    "url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb"
+                },
+				{
+                    "name": "Hypermotion 1            FullHD Mirror 1",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+                    "url": "acestream://4e066df67d118f95b41f850869abdc663c515186"
+                },
+				{
+                    "name": "Hypermotion 1            HD",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+                    "url": "acestream://121f719ebb94193c6086ef92865cf9b197750980"
+                },
+				{
+                    "name": "Hypermotion 1            HD Mirror 1",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+                    "url": "acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af"
+                },
+				{
+                    "name": "Hypermotion 2",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+                    "url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d"
+                }
+      ]
+    },
+    {
+    "name": "LaLiga/Copa Estrangers",
+	"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+    "stations": [
+        		{
+                    "name": "Match! Football 2",
+                    "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+                    "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
+                },
+				{
+                    "name": "Ziggo Sports 2",
+                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
+                },
+				{
+                    "name": "Setanta Sports 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+                    "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
+                },
+				{
+                    "name": "Eleven 1 (Polonia)",
+                    "image": "https://prendrecontact.be/wp-content/uploads/2023/02/Elevensports.png",
+                    "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+                },
+				{
+                    "name": "Eleven 1 (Polonia)        4K",
+                    "image": "https://prendrecontact.be/wp-content/uploads/2023/02/Elevensports.png",
+                    "url": "acestream:?content_id=7ac2d74ef6df9d15012992d7e0e635a95f58c652"
+                },
+				{
+                    "name": "Dazn 2 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
+                },
+				{
+                    "name": "Premier Sports 2 (UK)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+                    "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537"
+                }
+      ]
+    },
+    {
+    "name": "Champions League Estrangers",
+	"image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
+    "stations": [
+				{
+                    "name": "Ziggo Sports",
+                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
+                },
+				{
+                    "name": "Ziggo Sports 2",
+                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
+                },
+        		{
+                    "name": "Dazn 1 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream:?content_id=36cad67fed5a739757a9db844a551aa845a8d51b"
+                },
+				{
+                    "name": "Dazn 2 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
+                },
+               	{
+                    "name": "Dazn 3 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream:?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
+                },
+				{
+                    "name": "TNT Sports 1 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+                },
+				{
+                    "name": "TNT Sports 2 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+                },
+				{
+                    "name": "TNT Sports 3 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+                },
+				{
+                    "name": "Dazn 1 (Alemana)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+                },
+				{
+                    "name": "Dazn 2 (Alemana)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+                }
+      ]
+    },
+    {
+    "name": "Altres",
+	"image": "https://png.pngtree.com/png-vector/20230901/ourmid/pngtree-the-earth-logo-in-color-line-design-vector-png-image_7017998.png",
+    "stations": [
+        		{
+                    "name": "Tennis Channel",
+                    "image": "https://i.pinimg.com/736x/0a/f0/95/0af095e52d154231e82d0f906db389ce.jpg",
+                    "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+                },
+				{
+                    "name": "Dazn 1 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream:?content_id=36cad67fed5a739757a9db844a551aa845a8d51b"
+                },
+				{
+                    "name": "Dazn 2 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
+                },
+               {
+                    "name": "Dazn 3 (Portugal)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream:?content_id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
+                },
+				{
+                    "name": "Bein Sport 1 (FR)",
+                    "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+                    "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+                },
+				{
+                    "name": "Bein Sport 2 (FR)",
+                    "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+                    "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc"
+                },
+				{
+                    "name": "Bein Sport 3 (FR)",
+                    "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+                    "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8"
+                },
+				{
+                    "name": "TNT Sports 1 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+                },
+				{
+                    "name": "TNT Sports 2 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+                },
+				{
+                    "name": "TNT Sports 3 (UK)",
+                    "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+                    "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+                },
+				{
+                    "name": "Dazn 1 (Alemana)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+                },
+				{
+                    "name": "Dazn 2 (Alemana)",
+                    "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+                    "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+                },
+				{
+                    "name": "Canal+ Sport 1 (Polonia)",
+                    "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
+                    "url": "acestream:?content_id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
+                },
+				{
+                    "name": "Canal+ Sport 2 (Polonia)",
+                    "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
+                    "url": "acestream:?content_id=6390b1ab967a25777ea2dde1d41b7400cc0601d3"
+                },
+				{
+                    "name": "Canal+ Sport 3 (Polonia)",
+                    "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
+                    "url": "acestream:?content_id=3e87464ed8c42ed14464461ea08860a3040a8944"
+                },
+				{
+                    "name": "Eleven 1 (Polonia)",
+                    "image": "https://prendrecontact.be/wp-content/uploads/2023/02/Elevensports.png",
+                    "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+                },
+				{
+                    "name": "Eleven 1 (Polonia)        4K",
+                    "image": "https://prendrecontact.be/wp-content/uploads/2023/02/Elevensports.png",
+                    "url": "acestream:?content_id=7ac2d74ef6df9d15012992d7e0e635a95f58c652"
+                },
+				{
+                    "name": "Eleven 2 (Polonia)",
+                    "image": "https://prendrecontact.be/wp-content/uploads/2023/02/Elevensports.png",
+                    "url": "acestream:?content_id=54a4a28882d3cae1ca19de5d4b022ebea40351f9"
+                },
+				{
+                    "name": "Premier Sports 1 (UK)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+                    "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
+                },
+				{
+                    "name": "Premier Sports 2 (UK)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+                    "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537"
+                },
+				{
+                    "name": "Ziggo Sports",
+                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
+                },
+				{
+                    "name": "Ziggo Sports 2",
+                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
+                },
+				{
+                    "name": "Canal+ Sport 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png",
+                    "url": "acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3"
+                },
+				{
+                    "name": "Setanta Sports 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+                    "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
+                },
+				{
+                    "name": "Match! Football 2",
+                    "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+                    "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
+                },
+				{
+                    "name": "Magenta Sport (DE)             Euroleague",
+                    "image": "https://icdb.tv/images/d1846953ab18549905f5d24ccd487498.jpg",
+                    "url": "acestream://86495fe134ff065d5217497babe6be33f81d37d1"
+                },
+				{
+                    "name": "Sport Digital (DE)",
+                    "image": "https://www.new-business.de/_data/Sportdigital_Logo_Hochkant_2017_468.jpg",
+                    "url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"
+                },
+				{
+                    "name": "TVP Sport (PL)",
+                    "image": "https://www.press.pl/images/contents/photo_68177_1637259666_big.jpg",
+                    "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867"
+                },
+                {
+                    "name": "Sky Sports Main Event (UK)",
+                    "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
+                    "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+                },
+				{
+                    "name": "Sky Sport F1 (UK)",
+                    "image": "https://media.info/i/lf/900/1500468425/1514.png",
+                    "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
+                },
+				{
+                    "name": "NBA TV (USA)",
+                    "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+                    "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+                },
+				{
+                    "name": "NBA TV (USA)                                          Mirror 1",
+                    "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+                    "url": "acestream://c8aac540621d481965791c4442a7e868bcca10ca"
+                },
+				{
+                    "name": "NBA NETWORK",
+                    "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+                    "url": "acestream://6ad33feec75d929de54d77b9becfe767ae83fcb3"
+                },
+				{
+                    "name": "UFC FightPass",
+                    "image": "https://i0.wp.com/fightrecord.co.uk/wp-content/uploads/2020/12/ufc-fight-pass-lion-fight-muay-thai.jpg",
+                    "url": "acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51"
+                },
+				{
+                    "name": "ESPN Premium (Argentina)",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png",
+                    "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
+                },
+				{
+                    "name": "ESPN 1 (USA)",
+                    "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+                    "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
+                },
+				{
+                    "name": "ESPN 2 (USA)",
+                    "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+                    "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394"
+                },
+				{
+                    "name": "FOX SPORTS 1 (USA)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+                    "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898"
+                },
+				{
+                    "name": "FOX SPORTS 2 (USA)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+                    "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7"
+                },
+				{
+                    "name": "BeIN Extra Ñ (USA)",
+                    "image": "https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg",
+                    "url": "acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e"
+                },
+ 				{
+                    "name": "Eurosport 1 [DE]",
+                    "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+                    "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766"
+                },
+ 				{
+                    "name": "Eurosport 2 [DE]",
+                    "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+                    "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6"
+                },
+	 			{
+                    "name": "Eurosport 360 1 [DE]",
+                    "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+                    "url": "acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c"
+                },
+ 				{
+                    "name": "Eurosport 360 2 [DE]",
+                    "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+                    "url": "acestream://57f95543ac41656d473b1a27123fc413388a728c"
+                },
+                {
+                    "name": "Red Bull TV",
+                    "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+                    "url": "acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb"
+                }
+      ]
+    },
+{"name": "Canals TDT i Ràdio",
+"image": "https://github.com/tiriti1/tiri/blob/main/IMG_20250129_211427.jpg?raw=true",
+"url": "https://www.tdtchannels.com/lists/tvradio.m3u#.m3u"
+   },	
+    {
+    "name": "Pelis, Series i Documentals",
+	"image": "https://media.istockphoto.com/id/1642381175/es/vector/de-cine.jpg?s=612x612&w=0&k=20&c=I7WJnZROJxKx9T3V2H3aPdnubn2sK4ICJxaIYb_fCBk=",
+    "groups": [
+{"name": "Pelis byChuky",
+"image": "https://media.istockphoto.com/id/1642381175/es/vector/de-cine.jpg?s=612x612&w=0&k=20&c=I7WJnZROJxKx9T3V2H3aPdnubn2sK4ICJxaIYb_fCBk=",
+"url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
+"isHost": true
+    },
+        		{
+"name": "Documentals",
+"image": "https://i.blogs.es/8154d1/documentales/1366_2000.webp",
+"online":"true",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/docus.m3u",
+"isHost": true
+}
+      ]
+},
+    {
+    "name": "Esdeveniments",
+	"image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
+    "stations": [
+        		{
+                    "name": "Esdeveniment1            SIX NATIONS",
+                    "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
+                    "url": "acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3"
+                },
+				{
+                    "name": "Esdeveniment2             ",
+                    "image": "https://i.postimg.cc/y8tLPDNM/esdv2.png",
+                    "url": "acestream://33fcd9a17cb791374376f1b77f7247371167245d"
+                },
+				{
+                    "name": "Esdeveniment3              ",
+                    "image": "https://i.postimg.cc/xTdgVvNr/esdv3.png",
+                    "url": "acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d"
+                }
+      ]
+    }
+  ]
+}
