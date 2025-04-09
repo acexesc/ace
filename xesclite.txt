@@ -30,12 +30,12 @@
                     "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
                 },
 {
-                    "name": "Champions 1 (Portuguesos)",
+                    "name": "Champions 1 (Holanda)",
                     "image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
                     "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
                 },
 {
-                    "name": "Champions 2 (Portuguesos)",
+                    "name": "Champions 2 (Holanda)",
                     "image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
                     "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
                 }
