@@ -1,7 +1,7 @@
 {
     "name": "âš½ðŸ€ List Lite ðŸðŸ¥Ž",
     "author": "xesc",
-    "url": "https://pastebin.com/g6T4Gvai",
+    "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesclite.txt",
     "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
     "stations": [
 {
