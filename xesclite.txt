@@ -1,1 +1,13 @@
-
+{
+    "name": "âš½ðŸ€ List Lite ðŸðŸ¥Ž",
+    "author": "xesc",
+    "url": "https://pastebin.com/g6T4Gvai",
+    "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+    "stations": [
+{
+                    "name": "TVBAR             FullHD",
+                    "image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
+                    "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+                }
+]
+}
