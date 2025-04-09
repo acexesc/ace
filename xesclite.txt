@@ -26,13 +26,18 @@
         },
     		{
                     "name": "LaLLIGA (russos)",
-                    "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+                    "image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
                     "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
                 },
 {
                     "name": "Champions 1 (Portuguesos)",
-                    "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+                    "image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
                     "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
-                }
+                },
+{
+                    "name": "Champions 2 (Portuguesos)",
+                    "image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
+                    "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
+                },
 ]
 }
