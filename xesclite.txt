@@ -25,7 +25,7 @@
           "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
         },
     		{
-                    "name": "LaLLIGA (russos)",
+                    "name": "LaLiga (russos)",
                     "image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
                     "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
                 },
