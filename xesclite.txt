@@ -34,4 +34,5 @@
                     "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
                     "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
                 }
+]
 }
