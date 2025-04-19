@@ -247,8 +247,13 @@
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
                     "url": "acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7"
                 },
+	    		{
+                    "name": "M+ Deportes 2                   FullHD Mirror 1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
+                    "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
+                },			
 				{
-                    "name": "M+ Deportes 2                 Mirror FullHD",
+                    "name": "M+ Deportes 2                   FullHD Mirror 2",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
                     "url": "acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3"
                 },				
