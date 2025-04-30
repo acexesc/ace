@@ -502,7 +502,7 @@
 	"image": "https://s1.elespanol.com/2021/05/11/actualidad/580453278_184851183_1280x1280.jpg",
     "stations": [
 				{
-                    "name": "Ziggo Sports",
+                    "name": "Ziggo Sports 1",
                     "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
                     "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
                 },
