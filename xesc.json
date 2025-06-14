@@ -14,7 +14,7 @@
           "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
         },
         {
-          "name": "TVBAR                 Mirror FullHD",
+          "name": "TVBAR                 FullHD Mirror 1",
           "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
           "url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
         },
@@ -258,6 +258,11 @@
           "url": "acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3"
         },
         {
+          "name": "M+ Deportes 2                   FullHD Mirror 3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
+          "url": "acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7"
+        },
+        {
           "name": "M+ Deportes 3                 FullHD",
           "image": "https://deporte-libre.top/img/mdeportes3.png",
           "url": "acestream://985896872c52d04030c112ca99584046d022a349"
@@ -374,9 +379,24 @@
           "url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d"
         },
         {
-          "name": "Eurosport",
+          "name": "Eurosport                              FullHD",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
           "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+        },
+        {
+          "name": "Eurosport                             FullHD Mirror 1  ",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
+        },
+        {
+          "name": "Eurosport                             FullHD Mirror 2 ",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
+        },
+        {
+          "name": "Eurosport                             FullHD Mirror 4",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
         },
         {
           "name": "Dazn 1                 FullHD",
@@ -417,6 +437,16 @@
           "name": "Dazn 2                 FullHD ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+        },
+        {
+          "name": "Dazn 2                 FullHD Mirror 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
+        },
+        {
+          "name": "Dazn 2                 FullHD Mirror 2",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
         },
         {
           "name": "Dazn Eventos 1",
@@ -645,12 +675,22 @@
         {
           "name": "Dazn F1                 Mirror 3 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://751aa1f2429dfb9484b67a3ede00d859c6212994"
+          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
         },
         {
           "name": "Dazn F1                 Mirror 4 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://c367738691c63896679e523d4c1c7933729acc7b"
+          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+        },
+        {
+          "name": "Dazn F1                 Mirror 5 FullHD",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+        },
+        {
+          "name": "Dazn F1                 Mirror 6 FullHD",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
         },
         {
           "name": "Dazn F1                 HD",
