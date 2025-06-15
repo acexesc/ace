@@ -738,11 +738,6 @@
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"
         },
         {
-          "name": "ORF Sport 1",
-          "image": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
-          "url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974"
-        },
-        {
           "name": "Servus TV (DE)",
           "image": "https://seeklogo.com/images/S/servus-tv-logo-DAA97A7E35-seeklogo.com.png",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115"
@@ -957,6 +952,11 @@
           "name": "Sport Digital (DE)",
           "image": "https://www.new-business.de/_data/Sportdigital_Logo_Hochkant_2017_468.jpg",
           "url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"
+        },
+        {
+          "name": "ORF Sport 1",
+          "image": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
+          "url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974"
         },
         {
           "name": "TVP Sport (PL)",
