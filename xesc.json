@@ -708,6 +708,11 @@
           "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
         },
         {
+          "name": "Dazn Eleven 1 (Portugal)",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+        },
+        {
           "name": "Eleven 1 (Polonia)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
           "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
