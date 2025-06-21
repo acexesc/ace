@@ -647,9 +647,19 @@
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
         },
         {
+          "name": "Dazn Eleven 5 (Portugal)",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"
+        },
+        {
           "name": "Polsat Sport 1 (POL)",
           "image": "https://i.pinimg.com/736x/5e/02/98/5e0298ec48c215fc8e4b816ca141edc4.jpg",
           "url": "acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee"
+        },
+        {
+          "name": "Polsat Sport 2 (POL)",
+          "image": "https://i.pinimg.com/736x/5e/02/98/5e0298ec48c215fc8e4b816ca141edc4.jpg",
+          "url": "acestream://3147c586346aee00c005d1caa55204d38678c95f"
         }
       ]
     },
