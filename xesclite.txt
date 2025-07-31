@@ -53,6 +53,11 @@
                     "name": "Dazn F1                 FullHD",
                     "image": "https://estaticos-cdn.prensaiberica.es/clip/4dd85872-1d55-48df-9056-cf730953110b_source-aspect-ratio_default_0.jpg",
                     "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
-                }
+                },
+        {
+          "name": "Esdeveniment1            SEUL vs Barcelona YouTube",
+          "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
+          "url": "https://www.youtube.com/live/B2traQxCyhg?si=G6cmd0ePZ7Uu7B-G"
+        }
 ]
 }
