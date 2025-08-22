@@ -103,6 +103,11 @@
         {
           "name": "M+ LaLiga                 FullHD Mirror 3",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c"
+        },
+        {
+          "name": "M+ LaLiga                 FullHD Mirror 4",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
         },
         {
@@ -1137,6 +1142,7 @@
     }
   ]
 }
+
 
 
 
