@@ -495,6 +495,11 @@
           "url": "acestream://8442b5c7c99e5af57c2c40c1e28153072968988a"
         },
         {
+          "name": "Turkmenistan Sports",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3vIrt_oEJC--gHStd9UmsZB68zvk5KwCvw&s",
+          "url": "acestream://c3f5acd35086090c5fc815b961006630248b7dc0"
+        },
+        {
           "name": "Eleven 1 (Polonia)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
           "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
@@ -1147,6 +1152,7 @@
     }
   ]
 }
+
 
 
 
