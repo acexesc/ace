@@ -490,6 +490,11 @@
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
         },
         {
+          "name": "PimpleTV",
+          "image": "https://sportball24.com/media/photos/2025/0115/pimpletv-729209_472571.jpeg",
+          "url": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc"
+        },
+        {
           "name": "Eleven 1 (Polonia)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
           "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
@@ -1142,6 +1147,7 @@
     }
   ]
 }
+
 
 
 
