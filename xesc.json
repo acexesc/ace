@@ -505,9 +505,9 @@
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
         },
         {
-          "name": "Dazn Eleven 2 (Portugal)",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
+          "name": "Canal+ Sport (Pol)",
+          "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
+          "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
         },
         {
           "name": "Premier Sports 2 (UK)",
@@ -1147,6 +1147,7 @@
     }
   ]
 }
+
 
 
 
