@@ -495,9 +495,14 @@
           "url": "acestream://8442b5c7c99e5af57c2c40c1e28153072968988a"
         },
         {
-          "name": "Turkmenistan Sports",
+          "name": "Turkmenistan Sport",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3vIrt_oEJC--gHStd9UmsZB68zvk5KwCvw&s",
           "url": "acestream://c3f5acd35086090c5fc815b961006630248b7dc0"
+        },
+        {
+          "name": "Turkmenistan Sport      Mirror 1",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3vIrt_oEJC--gHStd9UmsZB68zvk5KwCvw&s",
+          "url": "acestream://9bec6a4c3398e44d20a5df038ceceb92b5999a15"
         },
         {
           "name": "Eleven 1 (Polonia)",
@@ -1152,6 +1157,7 @@
     }
   ]
 }
+
 
 
 
