@@ -500,9 +500,9 @@
           "url": "acestream:?content_id=14407b00d454cb7dc0d70aa26e8bbc554f457f00"
         },
         {
-          "name": "Eleven 1 (Polonia)        4K",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
-          "url": "acestream:?content_id=7ac2d74ef6df9d15012992d7e0e635a95f58c652"
+          "name": "Dazn 1 (Be)",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream:?content_id=acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
         },
         {
           "name": "Dazn Eleven 2 (Portugal)",
@@ -1147,6 +1147,7 @@
     }
   ]
 }
+
 
 
 
