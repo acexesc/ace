@@ -52,10 +52,15 @@
         {
           "name": "DAZN LaLiga                   FullHD Mirror 4",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0"
+          "url": "acestream://a725595391ccbd9cb42dfadbef3890384bd1180a"
         },
         {
           "name": "DAZN LaLiga                   FullHD Mirror 5",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0"
+        },
+        {
+          "name": "DAZN LaLiga                   FullHD Mirror 6",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6"
         },
@@ -715,15 +720,20 @@
         {
           "name": "Dazn F1                 Mirror 4 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+          "url": "acestream://0d8741d425dc148271c003ccb4d311704146afc8"
         },
         {
           "name": "Dazn F1                 Mirror 5 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
         },
         {
           "name": "Dazn F1                 Mirror 6 FullHD",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+        },
+        {
+          "name": "Dazn F1                 Mirror 7 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
           "url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
         },
@@ -1157,6 +1167,7 @@
     }
   ]
 }
+
 
 
 
