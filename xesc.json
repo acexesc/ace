@@ -82,12 +82,12 @@
         {
           "name": "DAZN LaLiga 2                 FullHD",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
+          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
         },
         {
-          "name": "DAZN LaLiga 2                 FullHD Mirror 1",
+          "name": "DAZN LaLiga 2                   HD",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
         }
       ]
     },
@@ -1182,6 +1182,7 @@
     }
   ]
 }
+
 
 
 
