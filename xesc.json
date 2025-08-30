@@ -16,6 +16,11 @@
         {
           "name": "TVBAR                 FullHD Mirror 1",
           "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
+          "url": "acestream://850e9747654784b1b9fa34de8f0a251636f9dc90"
+        },
+        {
+          "name": "TVBAR                 FullHD Mirror 2",
+          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
           "url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
         },
         {
@@ -376,6 +381,11 @@
         {
           "name": "Hypermotion 1            FullHD Mirror 1",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
+          "url": "acestream://5a5fc2cf15f13b519335c7a16649ec10bc60ffad"
+        },
+        {
+          "name": "Hypermotion 1            FullHD Mirror 2",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s1600/LaLiga%20Hypermotion%20V256x.png",
           "url": "acestream://83e8a605ffebe2062f15dad76b6ffe9486a28eb3"
         },
         {
@@ -703,7 +713,7 @@
           "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
         },
         {
-          "name": "Dazn F1                 Mirror FullHD",
+          "name": "Dazn F1                 Mirror 1 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
           "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
         },
@@ -715,25 +725,30 @@
         {
           "name": "Dazn F1                 Mirror 3 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+          "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
         },
         {
           "name": "Dazn F1                 Mirror 4 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://0d8741d425dc148271c003ccb4d311704146afc8"
+          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
         },
         {
           "name": "Dazn F1                 Mirror 5 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+          "url": "acestream://0d8741d425dc148271c003ccb4d311704146afc8"
         },
         {
           "name": "Dazn F1                 Mirror 6 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
         },
         {
           "name": "Dazn F1                 Mirror 7 FullHD",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+        },
+        {
+          "name": "Dazn F1                 Mirror 8 FullHD",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
           "url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
         },
@@ -1167,6 +1182,7 @@
     }
   ]
 }
+
 
 
 
