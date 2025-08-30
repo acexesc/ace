@@ -1084,27 +1084,27 @@
           "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
         },
         {
-          "name": "ESPN 1 (USA)",
+          "name": "ESPN 1 🇺🇸",
           "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
         },
         {
-          "name": "ESPN 2 (USA)",
+          "name": "ESPN 2 🇺🇸",
           "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394"
         },
         {
-          "name": "FOX SPORTS 1 (USA)",
+          "name": "FOX SPORTS 1 🇺🇸",
           "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
           "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898"
         },
         {
-          "name": "FOX SPORTS 2 (USA)",
+          "name": "FOX SPORTS 2 🇺🇸",
           "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
           "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7"
         },
         {
-          "name": "BeIN Extra Ñ (USA)",
+          "name": "BeIN Extra Ñ 🇺🇸",
           "image": "https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg",
           "url": "acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e"
         },
@@ -1182,6 +1182,7 @@
     }
   ]
 }
+
 
 
 
