@@ -858,16 +858,6 @@
           "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
         },
         {
-          "name": "Dazn F1 Multicamara",
-          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
-        },
-        {
-          "name": "Sky Sports Main Event (UK)",
-          "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
-          "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
-        },
-        {
           "name": "Sky Sport F1 🇩🇪",
           "image": "https://media.info/l/f/1/1514.1500468425.png",
           "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
@@ -893,14 +883,9 @@
           "url": "acestream://33c6d6729ebeb836e53f54219ff682634dad14a7"
         },
         {
-          "name": "Servus TV 🇩🇪",
-          "image": "https://seeklogo.com/images/S/servus-tv-logo-DAA97A7E35-seeklogo.com.png",
-          "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115"
-        },
-        {
-          "name": "ESPN 2 🇺🇸",
-          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
-          "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394"
+          "name": "F1 TV (UK)",
+          "image": "https://www.excelsior.com.mx/380x308/filters:format(webp):quality(75)/media/pictures/2025/03/05/3269056.jpg",
+          "url": "acestream://08035b26a8b23d797d789904447ed22897e4ef02"
         }
       ]
     },
@@ -1327,4 +1312,5 @@
     }
   ]
 }
+
 
