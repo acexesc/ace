@@ -214,7 +214,7 @@
         {
           "name": "M+ Champions 1                 ",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
+          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
         },
         {
           "name": "M+ Champions 1                   Mirror 1",
@@ -224,35 +224,40 @@
         {
           "name": "M+ Champions 1                   Mirror 2",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+          "url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
         },
         {
           "name": "M+ Champions 1                   Mirror 3",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9"
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
         },
         {
           "name": "M+ Champions 1                   Mirror 4",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://ec6ce96a4e4eb523108418a84babc9eca4b4c507"
+          "url": "acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9"
         },
         {
           "name": "M+ Champions 1                   Mirror 5",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://05057e832dd1530c7d5e8b0857fee6826243a243"
+          "url": "acestream://ec6ce96a4e4eb523108418a84babc9eca4b4c507"
         },
         {
           "name": "M+ Champions 1                   Mirror 6",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85"
+          "url": "acestream://05057e832dd1530c7d5e8b0857fee6826243a243"
         },
         {
           "name": "M+ Champions 1                   Mirror 7",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b"
+          "url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85"
         },
         {
           "name": "M+ Champions 1                   Mirror 8",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b"
+        },
+        {
+          "name": "M+ Champions 1                   Mirror 9",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://8edb264520569b2280c5e86b2dc734e120032903"
         },
@@ -1317,6 +1322,7 @@
     }
   ]
 }
+
 
 
 
