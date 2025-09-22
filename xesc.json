@@ -416,7 +416,7 @@
         {
           "name": "M+ Plus                Mirror 1",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-          "url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f"
+          "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
         },
         {
           "name": "M+ Plus                Mirror 2",
@@ -426,7 +426,7 @@
         {
           "name": "M+ Plus                Mirror 3",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-          "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
+          "url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f"
         },
         {
           "name": "M+ Plus                Mirror 4",
@@ -1274,9 +1274,9 @@
       "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
       "stations": [
         {
-          "name": "Esdeveniment1            Daegu vs Barcelona YouTube",
+          "name": "Esdeveniment1",
           "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
-          "url": "https://www.youtube.com/live/2KrS1i3OYs4?si=G-sCOaeuF4msTP9P"
+          "url": "acestream://eb25ebc41fc51710b098f860b33b3229d11921b3"
         },
         {
           "name": "Esdeveniment2             Telecinco",
@@ -1292,6 +1292,7 @@
     }
   ]
 }
+
 
 
 
