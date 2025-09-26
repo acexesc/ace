@@ -1279,9 +1279,9 @@
           "url": "acestream://eb25ebc41fc51710b098f860b33b3229d11921b3"
         },
         {
-          "name": "Esdeveniment2             Telecinco",
+          "name": "Esdeveniment2",
           "image": "https://i.postimg.cc/y8tLPDNM/esdv2.png",
-          "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
+          "url": "acestream://61a74bb05938f79fc03c0bfdfdcb6fbdb97e8be0"
         },
         {
           "name": "Esdeveniment3              Telecinco",
@@ -1292,6 +1292,7 @@
     }
   ]
 }
+
 
 
 
