@@ -1284,14 +1284,15 @@
           "url": "acestream://61a74bb05938f79fc03c0bfdfdcb6fbdb97e8be0"
         },
         {
-          "name": "Esdeveniment3              Telecinco",
+          "name": "Esdeveniment3",
           "image": "https://i.postimg.cc/xTdgVvNr/esdv3.png",
-          "url": "http://xesc.top:8000/file/AceStream-3.2.7.4-base.apk"
+          "url": "acestream://07020174770f184ef05ea3e1adc2b5235128e085"
         }
       ]
     }
   ]
 }
+
 
 
 
