@@ -5,32 +5,6 @@
   "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
   "groups": [
     {
-      "name": "TVBAR",
-      "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
-      "stations": [
-        {
-          "name": "TVBAR                 ",
-          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
-          "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
-        },
-        {
-          "name": "TVBAR                  Mirror 1",
-          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
-          "url": "acestream://850e9747654784b1b9fa34de8f0a251636f9dc90"
-        },
-        {
-          "name": "TVBAR                  Mirror 2",
-          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
-          "url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
-        },
-        {
-          "name": "TVBAR                   Mirror 3",
-          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.iAw1Dz2ybb.jpg",
-          "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
-        }
-      ]
-    },
-    {
       "name": "DAZN LaLiga",
       "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
       "stations": [
@@ -1282,6 +1256,7 @@
     }
   ]
 }
+
 
 
 
