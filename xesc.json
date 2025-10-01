@@ -706,9 +706,19 @@
           "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
         },
         {
-          "name": "RTL+ 7 🇩🇪",
-          "image": "https://images.seeklogo.com/logo-png/44/1/rtl-logo-png_seeklogo-446003.png",
+          "name": "rtrtrt Austriaustria 1 🇦🇹                MultiChampions",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
           "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e"
+        },
+        {
+          "name": "SKY Sport Austria 2 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b"
+        },
+        {
+          "name": "SKY Sport Austria 3 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f"
         }
       ]
     },
@@ -1257,6 +1267,7 @@
     }
   ]
 }
+
 
 
 
