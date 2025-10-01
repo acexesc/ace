@@ -706,17 +706,17 @@
           "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
         },
         {
-          "name": "SKY Sport Austria 1 🇦🇹                MultiChampions",
+          "name": "SKY Sport Aus 1 🇦🇹                MultiChampions",
           "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
           "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e"
         },
         {
-          "name": "SKY Sport Austria 2 🇦🇹",
+          "name": "SKY Sport Aus 2 🇦🇹",
           "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
           "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b"
         },
         {
-          "name": "SKY Sport Austria 3 🇦🇹",
+          "name": "SKY Sport Aus 3 🇦🇹",
           "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
           "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f"
         }
@@ -1282,6 +1282,7 @@
     }
   ]
 }
+
 
 
 
