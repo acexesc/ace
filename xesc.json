@@ -329,7 +329,7 @@
         },
         {
           "name": "M+ Deportes 1                   Mirror 5",
-          "image": "https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=fdf4c9&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmde.png",
+          "image": "https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=fdf4c9&media=https%3A%2imageww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmde.png",
           "url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
         },
         {
@@ -504,8 +504,8 @@
           "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
         },
         {
-          "name": "Eurosport                              Mirror 1"
-"image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "name": "Eurosport                              Mirror 1",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
           "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
         },
         {
@@ -1282,6 +1282,7 @@
     }
   ]
 }
+
 
 
 
