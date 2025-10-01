@@ -212,11 +212,6 @@
       "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
       "stations": [
         {
-          "name": "M+ Champions 1 4K              En Proves                ",
-          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://678a1e93fbfbd499c329886bfdda780e73ac1786"
-        },
-        {
           "name": "M+ Champions 1                 ",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
@@ -275,6 +270,11 @@
           "name": "M+ Champions 1                   Mirror 11",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://8edb264520569b2280c5e86b2dc734e120032903"
+        },
+        {
+          "name": "M+ Champions                      4K TEST",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://678a1e93fbfbd499c329886bfdda780e73ac1786"
         },
         {
           "name": "M+ Champions 2               ",
@@ -1297,6 +1297,7 @@
     }
   ]
 }
+
 
 
 
