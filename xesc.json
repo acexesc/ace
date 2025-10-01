@@ -504,8 +504,7 @@
           "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
         },
         {
-          "name": "Eurosport                              Mirror 1  ",
-          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "name": "Eurosport                              Mirror 1  "Austriaustriaa"image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
           "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
         },
         {
@@ -706,7 +705,7 @@
           "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
         },
         {
-          "name": "rtrtrt Austriaustria 1 🇦🇹                MultiChampions",
+          "name": "SKY Sport Austria 1 🇦🇹                MultiChampions",
           "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
           "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e"
         },
@@ -1004,6 +1003,21 @@
           "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
         },
         {
+          "name": "SKY Sport Austria 1 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e"
+        },
+        {
+          "name": "SKY Sport Austria 2 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b"
+        },
+        {
+          "name": "SKY Sport Austria 3 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f"
+        },
+        {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
           "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
@@ -1267,6 +1281,7 @@
     }
   ]
 }
+
 
 
 
