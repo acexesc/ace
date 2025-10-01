@@ -364,12 +364,12 @@
         {
           "name": "Vamos                  Mirror 1",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
+          "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
         },
         {
           "name": "Vamos                  Mirror 2",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+          "url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548"
         },
         {
           "name": "Vamos                  Mirror 3",
@@ -384,12 +384,12 @@
         {
           "name": "Vamos                  Mirror 5",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a"
+          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde"
         },
         {
           "name": "Vamos                    Mirror 6",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
+          "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
         },
         {
           "name": "Vamos Ellas                 ",
@@ -1276,6 +1276,7 @@
     }
   ]
 }
+
 
 
 
