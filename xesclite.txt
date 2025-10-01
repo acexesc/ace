@@ -5,11 +5,6 @@
     "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
     "stations": [
 {
-                    "name": "TVBAR             FullHD",
-                    "image": "https://pbs.twimg.com/profile_images/1635047219383394304/AGaIl-lE.jpg",
-                    "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
-                },
-{
           "name": "DAZN LaLiga                 FullHD",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
