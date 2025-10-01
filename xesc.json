@@ -630,11 +630,6 @@
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
         },
         {
-          "name": "Dazn 1 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://7a814b30f7cc9b1772aaacfbbb987e4b840e393c"
-        },
-        {
           "name": "PimpleTV 🇹🇷",
           "image": "https://sportball24.com/media/photos/2025/0115/pimpletv-729209_472571.jpeg",
           "url": "acestream://8442b5c7c99e5af57c2c40c1e28153072968988a"
@@ -709,6 +704,11 @@
           "name": "Dazn 2 🇩🇪",
           "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
           "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+        },
+        {
+          "name": "RTL+ 7 🇩🇪",
+          "image": "https://images.seeklogo.com/logo-png/44/1/rtl-logo-png_seeklogo-446003.png",
+          "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e"
         }
       ]
     },
@@ -884,26 +884,6 @@
           "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
         },
         {
-          "name": "Dazn 1 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://7a814b30f7cc9b1772aaacfbbb987e4b840e393c"
-        },
-        {
-          "name": "Dazn 2 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://828fa7bfc6bd941922cc1c7059a28f4d6502d218"
-        },
-        {
-          "name": "Dazn 3 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://661eb48b758e37ce02245e9a0282020442b7d8c4"
-        },
-        {
-          "name": "Dazn 4 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://ae206a79ff58c9a4d0128ebd4a0035ac19c2bf42"
-        },
-        {
           "name": "Eleven 1 🇵🇹",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
@@ -927,26 +907,6 @@
           "name": "Eleven 4 🇵🇹",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
-        },
-        {
-          "name": "Sport TV1 🇵🇹",
-          "image": "https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",
-          "url": "acestream://69814451c463e863427aa5187a11b93c3679d646"
-        },
-        {
-          "name": "Sport TV2 🇵🇹",
-          "image": "https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",
-          "url": "acestream://2ddf8d677309a3ea73adba01d6ee5e1f54b316eb"
-        },
-        {
-          "name": "Sport TV3 🇵🇹",
-          "image": "https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",
-          "url": "acestream://1d908f78517c2ba8bd9138d005c84a686bc62e52"
-        },
-        {
-          "name": "Sport TV4 🇵🇹",
-          "image": "https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",
-          "url": "acestream://662e46e2719bfba07fda9276b24f29c26ee5a60d"
         },
         {
           "name": "Bein Sport 1 🇫🇷",
@@ -1297,6 +1257,7 @@
     }
   ]
 }
+
 
 
 
