@@ -195,7 +195,7 @@
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
         },
-                {
+        {
           "name": "M+ Champions 1                   Mirror 3",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
@@ -878,17 +878,22 @@
         }
       ]
     },
-        {
+    {
       "name": "Bàsquet",
-      "image": "https://png.pngtree.com/png-vector/20230901/ourmid/pngtree-the-earth-logo-in-color-line-design-vector-png-image_7017998.png",
+      "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
       "stations": [
         {
-          "name": "Dazn 5 🇵🇹",
+          "name": "Dazn 1 🇵🇹                                     ACB",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
-          "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
+        },
+        {
+          "name": "Sport Klub 🇵🇱                                     ACB",
+          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
         }
       ]
-        },
+    },
     {
       "name": "Altres",
       "image": "https://png.pngtree.com/png-vector/20230901/ourmid/pngtree-the-earth-logo-in-color-line-design-vector-png-image_7017998.png",
@@ -923,7 +928,7 @@
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"
         },
-{
+        {
           "name": "Dazn 6 🇵🇹",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80"
@@ -1297,34 +1302,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
