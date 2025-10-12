@@ -878,6 +878,17 @@
         }
       ]
     },
+        {
+      "name": "Altres",
+      "image": "https://png.pngtree.com/png-vector/20230901/ourmid/pngtree-the-earth-logo-in-color-line-design-vector-png-image_7017998.png",
+      "stations": [
+        {
+          "name": "Dazn 5 🇵🇹",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
+          "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"
+        }
+      ]
+        },
     {
       "name": "Altres",
       "image": "https://png.pngtree.com/png-vector/20230901/ourmid/pngtree-the-earth-logo-in-color-line-design-vector-png-image_7017998.png",
@@ -1286,6 +1297,7 @@
     }
   ]
 }
+
 
 
 
