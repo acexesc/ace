@@ -455,7 +455,7 @@
         {
           "name": "M+ Series",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/512px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
-       ACBB "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254"
+          "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254"
         },
         {
           "name": "M+ Golf",
@@ -887,6 +887,11 @@
       "name": "Bàsquet",
       "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
       "stations": [
+        {
+          "name": "Dazn ACB                                     ACB",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a"
+        },
         {
           "name": "Dazn 1 🇵🇹                                     ACB",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
