@@ -1128,6 +1128,11 @@
           "url": "acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee"
         },
         {
+          "name": "Sport Klub 🇵🇱",
+          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+        },
+        {
           "name": "Sky Sports Main Event 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
           "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
@@ -1276,6 +1281,7 @@
     }
   ]
 }
+
 
 
 
