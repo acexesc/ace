@@ -888,9 +888,14 @@
       "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
       "stations": [
         {
-          "name": "Dazn ACB                      ",
+          "name": "Dazn ACB 1                     ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a"
+        },
+{
+          "name": "Dazn ACB 2                     ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://34944c86bad01c3963ef113c28c033858085adb7"
         },
         {
           "name": "Dazn 1 🇵🇹                                     ACB",
