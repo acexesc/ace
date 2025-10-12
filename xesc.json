@@ -891,6 +891,11 @@
           "name": "Sport Klub 🇵🇱                                     ACB",
           "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+        },
+        {
+          "name": "NBA TV 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
         }
       ]
     },
