@@ -455,7 +455,7 @@
         {
           "name": "M+ Series",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/512px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
-          "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254"
+       ACBB "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254"
         },
         {
           "name": "M+ Golf",
@@ -624,7 +624,7 @@
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
         },
         {
-          "name": "Dazn 1 🇵🇹                                     ACB",
+          "name": "Dazn 1 🇵🇹 ",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
         },
