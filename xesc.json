@@ -1306,7 +1306,7 @@
         {
           "name": "Esdeveniment1",
           "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
-          "url": "acestream://eb25ebc41fc51710b098f860b33b3229d11921b3"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
         },
         {
           "name": "Esdeveniment2",
