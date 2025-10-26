@@ -50,6 +50,16 @@
                     "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
                 },
         {
+          "name": "Dazn ACB 1                     ",
+          "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
+          "url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a"
+        },
+        {
+          "name": "Sport Klub 🇵🇱                                     ACB",
+          "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
+          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+        },
+        {
           "name": "Esdeveniment1            SEUL vs Barcelona YouTube",
           "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
           "url": "https://www.youtube.com/live/B2traQxCyhg?si=G6cmd0ePZ7Uu7B-G"
