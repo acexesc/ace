@@ -42,12 +42,12 @@
         		{
                     "name": "Dazn 1                 FullHD",
                     "image": "https://imgresizer.eurosport.com/unsafe/420x420/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/18/image-ece01fab-9105-4b59-965c-d58338fab626-68-310-310.jpeg",
-                    "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5"
+                    "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
                 },
 {
                     "name": "Dazn F1                 FullHD",
                     "image": "https://estaticos-cdn.prensaiberica.es/clip/4dd85872-1d55-48df-9056-cf730953110b_source-aspect-ratio_default_0.jpg",
-                    "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+                    "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
                 },
         {
           "name": "Esdeveniment1            SEUL vs Barcelona YouTube",
