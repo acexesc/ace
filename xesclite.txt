@@ -41,7 +41,7 @@
                 },
         		{
                     "name": "Dazn 1                 FullHD",
-                    "image": "https://imgresizer.eurosport.com/unsafe/420x420/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/18/image-ece01fab-9105-4b59-965c-d58338fab626-68-310-310.jpeg",
+                    "image": "https://img.redbull.com/images/c_crop,x_737,y_0,h_2560,w_2048/c_fill,w_800,h_1000/q_auto,f_auto/redbullcom/2025/6/30/wzfdjcvp43rsu6lgub3x/maverick-vinales-red-bull-ktm-holanda-motogp-assen-2025-carrera-accion",
                     "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
                 },
 {
