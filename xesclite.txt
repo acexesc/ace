@@ -19,6 +19,11 @@
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
         },
+        {
+          "name": "M+ Champions 2",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+        },
     		{
                     "name": "LaLiga (russos)",
                     "image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
