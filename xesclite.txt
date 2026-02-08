@@ -55,9 +55,9 @@
                     "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
                 },
         {
-          "name": "Dazn ACB 1                     ",
+          "name": "Dazn ACB 2                      ",
           "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
-          "url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a"
+          "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c"
         },
         {
           "name": "Sport Klub 🇵🇱                                     ACB",
