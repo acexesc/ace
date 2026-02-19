@@ -890,6 +890,11 @@
 {
           "name": "Dazn ACB 1 Mirror 1                   ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75"
+        },
+{
+          "name": "Dazn ACB 1 Mirror 2                   ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2"
         },
         {
@@ -898,22 +903,37 @@
           "url": "acestream://217e5f172d4c704c5eec739fed672a53521e8f98"
         },
 {
+          "name": "Dazn ACB 1 Mirror 3                   ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239"
+        },
+{
           "name": "Dazn ACB 2 Mirror 1                   ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
+        },
+{
+          "name": "Dazn ACB 2 Mirror 2                   ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c"
         },
 {
-          "name": "Dazn ACB 2 Mirror 2                    ",
+          "name": "Dazn ACB 2 Mirror 3                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://965b249321adbf3a1459f94c17f624022889fb8d"
         },
 {
           "name": "Dazn ACB 3 Mirror 1                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c"
+          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9"
         },
 {
           "name": "Dazn ACB 3 Mirror 2                    ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c"
+        },
+{
+          "name": "Dazn ACB 3 Mirror 3                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae"
         },
