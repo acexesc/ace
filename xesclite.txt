@@ -64,10 +64,10 @@
           "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
           "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
         },
-        {
-          "name": "Sport Klub 🇵🇱                                     ACB",
+  {
+          "name": "TV Start 🇷🇺 ACB                  ",
           "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
-          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+          "url": "acestream://4b129146077c1e357e4ab341448b9fb629f939dc"
         },
         {
           "name": "Esdeveniment1            SEUL vs Barcelona YouTube",
