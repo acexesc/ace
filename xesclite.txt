@@ -52,7 +52,7 @@
 {
                     "name": "Dazn F1                 FullHD",
                     "image": "https://estaticos-cdn.prensaiberica.es/clip/4dd85872-1d55-48df-9056-cf730953110b_source-aspect-ratio_default_0.jpg",
-                    "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
+                    "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
                 },
         {
           "name": "Dazn ACB 1                      ",
