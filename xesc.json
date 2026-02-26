@@ -87,11 +87,11 @@
     },
     {
       "name": "M+ LaLiga/Copa",
-      "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",
       "stations": [
         {
           "name": "M+ LaLiga                 ",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",
           "url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357"
         },
         {
