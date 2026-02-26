@@ -1144,16 +1144,6 @@
           "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
         },
         {
-          "name": "Canal+ Sport 2 🇵🇱",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_.png",
-          "url": "acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3"
-        },
-        {
-          "name": "Setanta Sports Plus 🇺🇦",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
-          "url": "acestream://33c6d6729ebeb836e53f54219ff682634dad14a7"
-        },
-        {
           "name": "Setanta Sports 1 🇺🇦",
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"
@@ -1163,10 +1153,20 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
         },
+{
+          "name": "Match! Football 1 🇷🇺",
+          "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+          "url": "acestream://b28db77c5084da7993395d77df96c30bb134f0a9"
+        },
         {
           "name": "Match! Football 2 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
+        },
+{
+          "name": "Match! Football 3 🇷🇺",
+          "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+          "url": "acestream://b6baa046075d82da300fc1b16de96067a8b9540e"
         },
         {
           "name": "beIN Sport 1 🇹🇷",
@@ -1238,6 +1238,16 @@
           "image": "https://i.pinimg.com/736x/5e/02/98/5e0298ec48c215fc8e4b816ca141edc4.jpg",
           "url": "acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee"
         },
+{
+          "name": "TV Start 🇷🇺                   ",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/vocmrg1643137294.png",
+          "url": "acestream://4b129146077c1e357e4ab341448b9fb629f939dc"
+        },
+       {
+          "name": "Mir Basketbola 🇷🇺                   ",
+          "image": "https://www.cableman.ru/sites/default/files/mir_basketbola.png",
+          "url": "acestream://c4acde347445b0a07a9e8695b4254bee2b2df570"
+        },
         {
           "name": "Sport Klub 🇵🇱",
           "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
@@ -1277,21 +1287,6 @@
           "name": "NBA TV 🇺🇸",
           "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
           "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
-        },
-        {
-          "name": "NBA TV 🇺🇸                                                 Mirror 1",
-          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
-          "url": "acestream://c8aac540621d481965791c4442a7e868bcca10ca"
-        },
-        {
-          "name": "NBA NETWORK 🇺🇸",
-          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
-          "url": "acestream://6ad33feec75d929de54d77b9becfe767ae83fcb3"
-        },
-        {
-          "name": "UFC FightPass",
-          "image": "https://i0.wp.com/fightrecord.co.uk/wp-content/uploads/2020/12/ufc-fight-pass-lion-fight-muay-thai.jpg",
-          "url": "acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51"
         },
         {
           "name": "ESPN 1 🇺🇸",
@@ -1337,6 +1332,11 @@
           "name": "Eurosport 360 2 🇩🇪",
           "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
           "url": "acestream://57f95543ac41656d473b1a27123fc413388a728c"
+        },
+{
+          "name": "UFC FightPass",
+          "image": "https://i0.wp.com/fightrecord.co.uk/wp-content/uploads/2020/12/ufc-fight-pass-lion-fight-muay-thai.jpg",
+          "url": "acestream://49b734a5a3365674480089264be00ae28fabb640"
         },
         {
           "name": "Red Bull TV",
