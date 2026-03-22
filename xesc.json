@@ -962,6 +962,11 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae"
         },
+{
+          "name": "Sport Klub 🇵🇱                                     ACB",
+          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+        },
      {
           "name": "FOX Sports 2 🇦🇷                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
@@ -981,11 +986,6 @@
           "name": "Mir Basketbola 🇷🇺                   ",
           "image": "https://www.cableman.ru/sites/default/files/mir_basketbola.png",
           "url": "acestream://c4acde347445b0a07a9e8695b4254bee2b2df570"
-        },
-        {
-          "name": "Sport Klub 🇵🇱                                     ACB",
-          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
-          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
         },
         {
           "name": "NBA TV 🇺🇸",
