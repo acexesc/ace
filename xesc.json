@@ -11,7 +11,7 @@
         {
           "name": "DAZN LaLiga                   Mirror 1",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
         },
         {
           "name": "DAZN LaLiga                   Mirror 2",
@@ -21,67 +21,47 @@
         {
           "name": "DAZN LaLiga                    Mirror 3",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
+          "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae"
         },
         {
           "name": "DAZN LaLiga               Mirror 4 ",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
         },
         {
           "name": "DAZN LaLiga                   Mirror 5",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618"
+          "url": "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8"
         },
         {
           "name": "DAZN LaLiga                    Mirror 6",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+          "url": "acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a"
         },
         {
           "name": "DAZN LaLiga                    Mirror 7",
           "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892"
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
         },
         {
-          "name": "DAZN LaLiga                    Mirror 8",
-          "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884"
-        },
-        {
-          "name": "DAZN LaLiga                    Mirror 9",
-          "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6"
-        },
-        {
-          "name": "DAZN LaLiga                    Mirror 10",
-          "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://a725595391ccbd9cb42dfadbef3890384bd1180a"
-        },
-        {
-          "name": "DAZN LaLiga                     Mirror 11",
-          "image": "http://xesc.top/thmb/daznlaliga1.png",
-          "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
-        },
-        {
-          "name": "DAZN LaLiga 2                 ",
-          "image": "http://xesc.top/thmb/daznlaliga2.png",
-          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
-        },
-        {
-          "name": "DAZN LaLiga 2                   Mirror 1",
+          "name": "DAZN LaLiga 2                   Mirror 1      ",
           "image": "http://xesc.top/thmb/daznlaliga2.png",
           "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
         },
         {
           "name": "DAZN LaLiga 2                   Mirror 2",
           "image": "http://xesc.top/thmb/daznlaliga2.png",
-          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
         },
         {
           "name": "DAZN LaLiga 2                   Mirror 3",
           "image": "http://xesc.top/thmb/daznlaliga2.png",
-          "url": "acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5"
+          "url": "acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3"
+        },
+        {
+          "name": "DAZN LaLiga 2                   Mirror 4",
+          "image": "http://xesc.top/thmb/daznlaliga2.png",
+          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
         }
       ]
     },
@@ -624,6 +604,16 @@
       "image": "http://xesc.top/thmb/laligaex.png",
       "stations": [
         {
+          "name": "Sky LaLiga 🇲🇽                             Mirror 1",
+          "image": "http://xesc.top/thmb/skylaliga.png",
+          "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662"
+        },
+        {
+          "name": "Sky LaLiga 🇲🇽                             Mirror 2",
+          "image": "http://xesc.top/thmb/skylaliga.png",
+          "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a"
+        },
+        {
           "name": "Match! Football 2 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
@@ -673,7 +663,7 @@
           "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
           "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
         },
-{
+        {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
           "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
@@ -962,17 +952,17 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae"
         },
-{
+        {
           "name": "Sport Klub 🇵🇱                                     ACB",
           "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
         },
-     {
+        {
           "name": "FOX Sports 2 🇦🇷                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
           "url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac"
         },
-     {
+        {
           "name": "FOX Sports 2 🇨🇴                    ",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
           "url": "acestream://3bdf355aeaac39d20e368ebb2ed72b9f71bf9090"
