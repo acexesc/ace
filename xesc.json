@@ -2,7 +2,7 @@
   "name": "⚽🏀 XESC List FD 🏁🥎",
   "author": "xesc",
   "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc.json",
-  "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+  "image": "http://xesc.top/thmb/logo.png",
   "groups": [
     {
       "name": "DAZN LaLiga",
@@ -1046,22 +1046,47 @@
           "name": "Mir Basketbola 🇷🇺                   ",
           "image": "https://www.cableman.ru/sites/default/files/mir_basketbola.png",
           "url": "acestream://c4acde347445b0a07a9e8695b4254bee2b2df570"
-        },
-        {
-          "name": "NBA TV 🇺🇸",
-          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
-          "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
         }
       ]
     },
     {
       "name": "NBA",
-      "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
+      "image": "http://xesc.top/thmb/nba.png",
       "stations": [
         {
           "name": "NBA TV 🇺🇸",
           "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
           "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+        },
+        {
+          "name": "ESPN 1 🇺🇸",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
+        },
+        {
+          "name": "ESPN 2 🇺🇸",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394"
+        },
+        {
+          "name": "FOX SPORTS 1 🇺🇸",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898"
+        },
+        {
+          "name": "FOX SPORTS 2 🇺🇸",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7"
+        },
+        {
+          "name": "Sky Sport+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://cdn.aptoide.com/imgs/8/1/8/8186311de5263f8485f92cd66efa4c27_icon.png",
+          "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c"
+        },
+        {
+          "name": "TVP Sport 🇵🇱",
+          "image": "https://www.press.pl/images/contents/photo_68177_1637259666_big.jpg",
+          "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867"
         }
       ]
     },
