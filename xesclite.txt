@@ -2,7 +2,7 @@
     "name": "List Lite",
     "author": "xesc",
     "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesclite.txt",
-    "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+    "image": "http://xesc.top/thmb/logo.png",
     "stations": [
 {
           "name": "DAZN LaLiga                 FullHD",
@@ -12,12 +12,12 @@
 {
           "name": "M+ LaLiga                 FullHD",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
         },
         {
           "name": "M+ Champions 1                 FullHD",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
         },
         {
           "name": "M+ Champions 2",
@@ -42,12 +42,12 @@
         		{
                     "name": "M+ Deportes 1                 FullHD",
                     "image": "https://estaticos-cdn.prensaiberica.es/clip/0b94daa0-3b2a-4f83-8830-71dc926829ab_16-9-discover-aspect-ratio_default_0.jpg",
-                    "url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
+                    "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda"
                 },
         		{
                     "name": "Dazn 1                 FullHD",
                     "image": "https://img.redbull.com/images/c_crop,x_737,y_0,h_2560,w_2048/c_fill,w_800,h_1000/q_auto,f_auto/redbullcom/2025/6/30/wzfdjcvp43rsu6lgub3x/maverick-vinales-red-bull-ktm-holanda-motogp-assen-2025-carrera-accion",
-                    "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+                    "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
                 },
 {
                     "name": "Dazn F1                 FullHD",
@@ -63,6 +63,11 @@
           "name": "Dazn ACB 2                      ",
           "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
           "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
+        },
+  {
+          "name": "ACB Argentina   ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
+          "url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac"
         },
   {
           "name": "TV Start 🇷🇺 ACB                  ",
