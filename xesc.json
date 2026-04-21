@@ -974,7 +974,7 @@
       ]
     },
     {
-      "name": "ACB",
+      "name": "ACB/EuroLeague",
       "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
       "stations": [
         {
@@ -1056,6 +1056,11 @@
           "name": "Mir Basketbola 🇷🇺                   ",
           "image": "https://www.cableman.ru/sites/default/files/mir_basketbola.png",
           "url": "acestream://c4acde347445b0a07a9e8695b4254bee2b2df570"
+        },
+{
+          "name": "Sport 5 🇮🇱",
+          "image": "https://basketmaniatenerife.es/wp-content/uploads/2022/02/logo.jpg",
+          "url": "acestream://df6a549d5defc547f34eb52c114ff08d8332fe13"
         }
       ]
     },
@@ -1293,6 +1298,11 @@
           "name": "Nova Sport 4 🇬🇷",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYokQ0IFD0gEjz6oqYitB6trEN5rMWLbQzzQ0B2w-5n4UxmgZCg13RKlo&s=10",
           "url": "acestream://1408de419b1abeac470094e284a07c3512342d69"
+        },
+{
+          "name": "Sport 5 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png",
+          "url": "acestream://df6a549d5defc547f34eb52c114ff08d8332fe13"
         },
         {
           "name": "beIN Sport 1 🇹🇷",
