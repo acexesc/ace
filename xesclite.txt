@@ -45,10 +45,15 @@
                     "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda"
                 },
         		{
-                    "name": "Dazn 1                 FullHD",
+                    "name": "Dazn MotoGP                 FullHD",
                     "image": "https://img.redbull.com/images/c_crop,x_737,y_0,h_2560,w_2048/c_fill,w_800,h_1000/q_auto,f_auto/redbullcom/2025/6/30/wzfdjcvp43rsu6lgub3x/maverick-vinales-red-bull-ktm-holanda-motogp-assen-2025-carrera-accion",
-                    "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
+              "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5"
                 },
+        {
+          "name": "MotoGP Estrangers 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://img.redbull.com/images/c_crop,x_737,y_0,h_2560,w_2048/c_fill,w_800,h_1000/q_auto,f_auto/redbullcom/2025/6/30/wzfdjcvp43rsu6lgub3x/maverick-vinales-red-bull-ktm-holanda-motogp-assen-2025-carrera-accion",
+          "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+        },
 {
                     "name": "Dazn F1                 FullHD",
                     "image": "https://estaticos-cdn.prensaiberica.es/clip/4dd85872-1d55-48df-9056-cf730953110b_source-aspect-ratio_default_0.jpg",
