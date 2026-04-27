@@ -371,7 +371,7 @@
           "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_deportes_1.es"
+          "epgId": "M+.Deportes.es"
         },
         {
           "name": "M+ Deportes 1",
@@ -409,7 +409,7 @@
           "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_deportes_2.es"
+          "epgId": "M+.Deportes.2.es"
         },
         {
           "name": "M+ Deportes 2",
@@ -442,7 +442,7 @@
           "url": "acestream://985896872c52d04030c112ca99584046d022a349",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_deportes_3.es"
+          "epgId": "M+.Deportes.3.es"
         },
         {
           "name": "Vamos",
@@ -450,7 +450,7 @@
           "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "vamos.es"
+          "epgId": "M+.Vamos.es"
         },
         {
           "name": "Vamos",
@@ -488,7 +488,7 @@
           "url": "acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "vamos_ellas.es"
+          "epgId": "M+.Ellas.V.es"
         },
         {
           "name": "Vamos Ellas",
@@ -507,7 +507,7 @@
           "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_plus.es"
+          "epgId": "Movistar.Plus.es"
         },
         {
           "name": "M+ Plus",
@@ -540,7 +540,7 @@
           "url": "acestream://bed9a9fc8e9d07a65591c0e8c31cb558a029f985",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_comedia.es"
+          "epgId": "Movistar.Comedia.es"
         },
         {
           "name": "M+ Accion",
@@ -548,7 +548,7 @@
           "url": "acestream://de88ed8716612d9c548df63a168fbdd96843dd20",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_accion.es"
+          "epgId": "Movistar.Acción.es"
         },
         {
           "name": "M+ Clasicos",
@@ -556,7 +556,7 @@
           "url": "acestream://62b6cdc347e9b5f5aff089055365805e4d20d41e",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_clasicos.es"
+          "epgId": "M+.Clásicos.es"
         },
         {
           "name": "M+ Series",
@@ -564,7 +564,7 @@
           "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_series.es"
+          "epgId": "Movistar.Series.es"
         },
         {
           "name": "M+ Golf",
@@ -572,7 +572,7 @@
           "url": "acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_golf.es"
+          "epgId": "Movistar.Golf.es"
         },
         {
           "name": "Hypermotion 1",
@@ -580,7 +580,7 @@
           "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "hypermotion_1.es"
+          "epgId": "LALIGA.TV.HYPERMOTION.es"
         },
         {
           "name": "Hypermotion 1",
@@ -603,7 +603,7 @@
           "url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "hypermotion_2.es"
+          "epgId": "LALIGA.TV.HYPERMOTION.2.es"
         },
         {
           "name": "Eurosport",
@@ -611,7 +611,7 @@
           "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "eurosport.es"
+          "epgId": "Eurosport.es"
         },
         {
           "name": "Eurosport",
@@ -634,7 +634,7 @@
           "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "dazn_1.es"
+          "epgId": "DAZN.1.es"
         },
         {
           "name": "Dazn 1",
@@ -667,7 +667,7 @@
           "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "dazn_2.es"
+          "epgId": "DAZN.2.es"
         },
         {
           "name": "Dazn 2",
@@ -717,19 +717,6 @@
       "image": "http://xesc.top/thmb/laligaex.png",
       "stations": [
         {
-          "name": "Sky LaLiga 🇬🇧",
-          "image": "http://xesc.top/thmb/skylaliga.png",
-          "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "sky_laliga.uk"
-        },
-        {
-          "name": "Sky LaLiga 🇬🇧",
-          "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
-          "lite": false
-        },
-        {
           "name": "Match! Football 2 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
@@ -743,7 +730,7 @@
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
           "lite": false,
           "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "ziggo_sports.nl"
+          "epgId": "Ziggo.Sport.nl"
         },
         {
           "name": "Ziggo Sports 2 🇳🇱",
@@ -751,15 +738,15 @@
           "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
           "lite": false,
           "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "ziggo_sports_2.nl"
+          "epgId": "Ziggo.Sport.2.nl"
         },
         {
           "name": "Setanta Sports 2 🇪🇺",
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
           "lite": false,
-          "epgfile": "epg_ripper_EU1.xml.gz",
-          "epgId": "setanta_sports_2.eu"
+          "epgfile": "epg_ripper_LV1.xml.gz",
+          "epgId": "Setanta.Sports.2.HD.lv"
         },
         {
           "name": "Dazn 2 🇵🇹",
@@ -767,7 +754,7 @@
           "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "dazn_2.pt"
+          "epgId": "DAZN.2.pt"
         },
         {
           "name": "Bein Sport 2 🇫🇷",
@@ -775,7 +762,7 @@
           "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "bein_sport_2.fr"
+          "epgId": "beIN.SPORTS.2.fr"
         },
         {
           "name": "Nova Sport 4 🇨🇿",
@@ -783,7 +770,7 @@
           "url": "acestream://1408de419b1abeac470094e284a07c3512342d69",
           "lite": false,
           "epgfile": "epg_ripper_CZ1.xml.gz",
-          "epgId": "nova_sport_4.cz"
+          "epgId": "Nova.Sport.4.cz"
         },
         {
           "name": "PimpleTV 🇹🇷",
@@ -812,7 +799,7 @@
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "dazn_1.de"
+          "epgId": "DAZN.1.de"
         },
         {
           "name": "Canal+ Sport 🇫🇷",
@@ -820,7 +807,7 @@
           "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "canal_sport.fr"
+          "epgId": "Canal+.Sport.fr"
         },
         {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -828,7 +815,7 @@
           "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "premier_sports_1.uk"
+          "epgId": "Premier.Sports.1.HD.uk"
         },
         {
           "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -836,7 +823,7 @@
           "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "premier_sports_2.uk"
+          "epgId": "Premier.Sports.2.HD.uk"
         }
       ]
     },
@@ -850,7 +837,7 @@
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
           "lite": false,
           "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "ziggo_sports_1.nl"
+          "epgId": "Ziggo.Sport.nl"
         },
         {
           "name": "Ziggo Sports 2 🇳🇱",
@@ -858,7 +845,7 @@
           "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
           "lite": false,
           "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "ziggo_sports_2.nl"
+          "epgId": "Ziggo.Sport.2.nl"
         },
         {
           "name": "TNT Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -866,7 +853,7 @@
           "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_1.uk"
+          "epgId": "TNT.Sports.1.HD.uk"
         },
         {
           "name": "TNT Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -874,7 +861,7 @@
           "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_2.uk"
+          "epgId": "TNT.Sports.2.HD.uk"
         },
         {
           "name": "TNT Sports 3 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -882,7 +869,7 @@
           "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_3.uk"
+          "epgId": "TNT.Sports.3.HD.uk"
         },
         {
           "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -890,7 +877,7 @@
           "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_4.uk"
+          "epgId": "TNT.Sports.4.HD.uk"
         },
         {
           "name": "Dazn 1 🇩🇪",
@@ -898,7 +885,7 @@
           "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "dazn_1.de"
+          "epgId": "DAZN.1.de"
         },
         {
           "name": "Dazn 2 🇩🇪",
@@ -906,7 +893,7 @@
           "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "dazn_2.de"
+          "epgId": "DAZN.2.de"
         },
         {
           "name": "Dazn 1 🇵🇹",
@@ -914,7 +901,7 @@
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "dazn_1.pt"
+          "epgId": "DAZN.1.pt"
         },
         {
           "name": "TVP Sport 🇵🇱",
@@ -922,7 +909,7 @@
           "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
-          "epgId": "tvp_sport.pl"
+          "epgId": "TVP.Sport.HD.pl"
         },
         {
           "name": "SKY Sport Aus 1 🇦🇹",
@@ -930,7 +917,7 @@
           "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "sky_sport_aus_1.at"
+          "epgId": "Sky.Sport.1.at"
         },
         {
           "name": "SKY Sport Aus 2 🇦🇹",
@@ -938,7 +925,7 @@
           "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "sky_sport_aus_2.at"
+          "epgId": "Sky.Sport.2.at"
         },
         {
           "name": "SKY Sport Aus 3 🇦🇹",
@@ -946,7 +933,7 @@
           "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "sky_sport_aus_3.at"
+          "epgId": "Sky.Sport.3.at"
         }
       ]
     },
@@ -960,7 +947,7 @@
           "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "dazn_motogp.es"
+          "epgId": "Moto.GP.es"
         },
         {
           "name": "Dazn MotoGP",
@@ -983,7 +970,7 @@
           "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_2.uk"
+          "epgId": "TNT.Sports.2.HD.uk"
         },
         {
           "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -991,7 +978,7 @@
           "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "tnt_sports_4.uk"
+          "epgId": "TNT.Sports.4.HD.uk"
         },
         {
           "name": "Servus TV 🇦🇹",
@@ -999,7 +986,7 @@
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "servus_tv.at"
+          "epgId": "Servus.TV.HD.at"
         },
         {
           "name": "Ziggo Sports 🇳🇱",
@@ -1007,7 +994,7 @@
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
           "lite": false,
           "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "ziggo_sports.nl"
+          "epgId": "Ziggo.Sport.nl"
         },
         {
           "name": "Dazn Eleven 5 🇵🇹",
@@ -1015,7 +1002,7 @@
           "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "dazn_eleven_5.pt"
+          "epgId": "DAZN.5.pt"
         },
         {
           "name": "Polsat Sport 1 🇵🇱",
@@ -1023,7 +1010,7 @@
           "url": "acestream://e605bc930e379aa95d3098fbf1730e7a3e77b3ea",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
-          "epgId": "polsat_sport_1.pl"
+          "epgId": "Polsat.Sport.HD.pl"
         },
         {
           "name": "Polsat Sport 2 🇵🇱",
@@ -1031,7 +1018,7 @@
           "url": "acestream://3147c586346aee00c005d1caa55204d38678c95f",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
-          "epgId": "polsat_sport_2.pl"
+          "epgId": "Polsat.Sport.Premium.2.pl"
         }
       ]
     },
@@ -1045,7 +1032,7 @@
           "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "dazn_f1.es"
+          "epgId": "DAZN.F1.es"
         },
         {
           "name": "Dazn F1",
@@ -1113,7 +1100,7 @@
           "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "sky_sport_f1.de"
+          "epgId": "Sky.Sport.F1.de"
         },
         {
           "name": "Dazn Eleven 1 🇵🇹",
@@ -1121,7 +1108,7 @@
           "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "dazn_eleven_1.pt"
+          "epgId": "DAZN.1.pt"
         },
         {
           "name": "beIN Sport 4 🇹🇷",
@@ -1129,7 +1116,7 @@
           "url": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
-          "epgId": "bein_sport_4.tr"
+          "epgId": "beIN.SPORTS.4.tr"
         },
         {
           "name": "Sky Sports Main Event 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1137,7 +1124,7 @@
           "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "sky_sports_main_event.uk"
+          "epgId": "SkySpMainEvHD.uk"
         },
         {
           "name": "F1 TV 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1145,7 +1132,7 @@
           "url": "acestream://627b73d82b9caa6f65ba703f8304bd97daa553eb",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "f1_tv.uk"
+          "epgId": "SkySp.F1.HD.uk"
         }
       ]
     },
@@ -1223,7 +1210,7 @@
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
-          "epgId": "sport_klub.pl"
+          "epgId": "Sportklub.HD.pl"
         },
         {
           "name": "FOX Sports 2 🇦🇷",
@@ -1231,7 +1218,7 @@
           "url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac",
           "lite": false,
           "epgfile": "epg_ripper_AR1.xml.gz",
-          "epgId": "fox_sports_2.ar"
+          "epgId": "FOX.SPORTS.2.mx"
         },
         {
           "name": "FOX Sports 2 🇧🇷",
@@ -1239,7 +1226,7 @@
           "url": "acestream://3bdf355aeaac39d20e368ebb2ed72b9f71bf9090",
           "lite": false,
           "epgfile": "epg_ripper_BR1.xml.gz",
-          "epgId": "fox_sports_2.br"
+          "epgId": "FOX.SPORTS.2.mx"
         },
         {
           "name": "TV Start 🇷🇺",
@@ -1277,7 +1264,7 @@
           "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "nba_tv.us"
+          "epgId": "NBA.TV.HD.us2"
         },
         {
           "name": "ESPN 1 🇺🇸",
@@ -1285,7 +1272,7 @@
           "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "espn_1.us"
+          "epgId": "ESPN.HD.us2"
         },
         {
           "name": "ESPN 2 🇺🇸",
@@ -1293,7 +1280,7 @@
           "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "espn_2.us"
+          "epgId": "ESPN2.HD.us2"
         },
         {
           "name": "FOX SPORTS 1 🇺🇸",
@@ -1309,7 +1296,7 @@
           "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "fox_sports_2.us"
+          "epgId": "FS1.Fox.Sports.2.HD.us2"
         },
         {
           "name": "Sky Sport+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1317,7 +1304,7 @@
           "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "sky_sport_plus.uk"
+          "epgId": "SkySp+HD.uk"
         },
         {
           "name": "Bein Sport 1 🇫🇷",
@@ -1325,7 +1312,7 @@
           "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "bein_sport_1.fr"
+          "epgId": "beIN.SPORTS.1.fr"
         },
         {
           "name": "Sky Sport 2 🇩🇪",
@@ -1333,7 +1320,7 @@
           "url": "acestream://fc9f1f580da8f641a5991d44b399982a3a069f69",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "sky_sport_2.de"
+          "epgId": "Sky.Sport.2.de"
         },
         {
           "name": "Sport 5 🇮🇱",
@@ -1349,7 +1336,7 @@
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
           "lite": false,
           "epgfile": "epg_ripper_EU1.xml.gz",
-          "epgId": "setanta_sports_1.eu"
+          "epgId": "Setanta.Sports.1.HD.lv"
         }
       ]
     },
