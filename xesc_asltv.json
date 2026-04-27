@@ -1,8 +1,8 @@
 {
   "name": "Mi Lista TV",
   "author": "xesc",
-  "url": "http://xesc.top:8000/file/prova.json",
-  "urlmirror": "https://respaldo.com/lista.json",
+  "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
+  "urlmirror": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
   "epgUrl": "https://epgshare01.online/epgshare01/",
   "bannerImage": "https://static.vecteezy.com/system/resources/thumbnails/000/701/690/small/abstract-polygonal-banner-background.jpg",
   "groups": [
