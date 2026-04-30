@@ -12,7 +12,7 @@
   "bannerImage": "https://static.vecteezy.com/system/resources/thumbnails/000/701/690/small/abstract-polygonal-banner-background.jpg",
   "groups": [
     {
-      "name": "DAZN LaLiga",
+      "name": "LaLiga",
       "image": "http://xesc.top/thmb/daznlaliga.png",
       "stations": [
         {
@@ -75,14 +75,8 @@
           "name": "DAZN LaLiga 2",
           "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
           "lite": false
-        }
-      ]
-    },
-    {
-      "name": "M+ LaLiga/Copa",
-      "image": "http://xesc.top/thmb/mlaliga.png",
-      "stations": [
-        {
+        },
+{
           "name": "M+ LaLiga",
           "image": "http://xesc.top/thmb/mlaliga1.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
@@ -153,38 +147,119 @@
           "url": "acestream://2809da9b019f403364f6e099a07cee5e8fa70dd7",
           "lite": false
         },
-        {
-          "name": "M+ SuperCopa",
-          "image": "https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg",
-          "url": "acestream://c0803ffef120a6ec036329ce3fe2e95018cc5958",
+{
+          "name": "Match! Football 2 🇷🇺",
+          "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
+          "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
           "lite": false,
-          "epgfile": "epg_ripper_ES2.xml.gz",
-          "epgId": "mas_supercopa.es"
+          "epgfile": "epg_ripper_RU1.xml.gz",
+          "epgId": "match_football_2.ru"
         },
         {
-          "name": "M+ SuperCopa",
-          "url": "acestream://99364e3a5ed2afc8421dfa6332df194761166c03",
+          "name": "Ziggo Sports 🇳🇱",
+          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+          "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
+          "lite": false,
+          "epgfile": "epg_ripper_NL1.xml.gz",
+          "epgId": "Ziggo.Sport.nl"
+        },
+        {
+          "name": "Ziggo Sports 2 🇳🇱",
+          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+          "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
+          "lite": false,
+          "epgfile": "epg_ripper_NL1.xml.gz",
+          "epgId": "Ziggo.Sport.2.nl"
+        },
+        {
+          "name": "Setanta Sports 2 🇪🇺",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+          "lite": false,
+          "epgfile": "epg_ripper_LV1.xml.gz",
+          "epgId": "Setanta.Sports.2.HD.lv"
+        },
+        {
+          "name": "Dazn 2 🇵🇹",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
+          "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+          "lite": false,
+          "epgfile": "epg_ripper_PT1.xml.gz",
+          "epgId": "DAZN.2.pt"
+        },
+        {
+          "name": "Bein Sport 2 🇫🇷",
+          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
+          "lite": false,
+          "epgfile": "epg_ripper_FR1.xml.gz",
+          "epgId": "beIN.SPORTS.2.fr"
+        },
+        {
+          "name": "Nova Sport 4 🇨🇿",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYokQ0IFD0gEjz6oqYitB6trEN5rMWLbQzzQ0B2w-5n4UxmgZCg13RKlo&s=10",
+          "url": "acestream://1408de419b1abeac470094e284a07c3512342d69",
+          "lite": false,
+          "epgfile": "epg_ripper_CZ1.xml.gz",
+          "epgId": "Nova.Sport.4.cz"
+        },
+        {
+          "name": "PimpleTV 🇹🇷",
+          "image": "https://sportball24.com/media/photos/2025/0115/pimpletv-729209_472571.jpeg",
+          "url": "acestream://8442b5c7c99e5af57c2c40c1e28153072968988a",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": "pimpletv.tr"
+        },
+        {
+          "name": "Turkmenistan Sport 🇹🇲",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3vIrt_oEJC--gHStd9UmsZB68zvk5KwCvw&s",
+          "url": "acestream://c3f5acd35086090c5fc815b961006630248b7dc0",
+          "lite": false,
+          "epgfile": "epg_ripper_TM1.xml.gz",
+          "epgId": "turkmenistan_sport.tm"
+        },
+        {
+          "name": "Turkmenistan Sport 🇹🇲",
+          "url": "acestream://9bec6a4c3398e44d20a5df038ceceb92b5999a15",
           "lite": false
         },
         {
-          "name": "M+ SuperCopa",
-          "url": "acestream://20d44589bc1e51ffb60d2cd98fb24019c6736772",
-          "lite": false
+          "name": "Dazn 1 🇩🇪",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+          "lite": false,
+          "epgfile": "epg_ripper_DE1.xml.gz",
+          "epgId": "DAZN.1.de"
         },
         {
-          "name": "M+ SuperCopa",
-          "url": "acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6",
-          "lite": false
+          "name": "Canal+ Sport 🇫🇷",
+          "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
+          "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
+          "lite": false,
+          "epgfile": "epg_ripper_FR1.xml.gz",
+          "epgId": "Canal+.Sport.fr"
         },
         {
-          "name": "M+ SuperCopa",
-          "url": "acestream://2dcc9fa21935872130029206395a12cd10533a75",
-          "lite": false
+          "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "Premier.Sports.1.HD.uk"
+        },
+        {
+          "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "Premier.Sports.2.HD.uk"
         }
       ]
     },
     {
-      "name": "M+ Champions",
+      "name": "ChampionsLeague",
       "image": "http://xesc.top/thmb/chamions.png",
       "stations": [
         {
@@ -363,6 +438,110 @@
           "name": "M+ Champions 4",
           "url": "acestream://91ac4585368992720ec17ffa5b4389368c6dcac1",
           "lite": false
+        },
+{
+          "name": "Ziggo Sports 1 🇳🇱",
+          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+          "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
+          "lite": false,
+          "epgfile": "epg_ripper_NL1.xml.gz",
+          "epgId": "Ziggo.Sport.nl"
+        },
+        {
+          "name": "Ziggo Sports 2 🇳🇱",
+          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
+          "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
+          "lite": false,
+          "epgfile": "epg_ripper_NL1.xml.gz",
+          "epgId": "Ziggo.Sport.2.nl"
+        },
+        {
+          "name": "TNT Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+          "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "TNT.Sports.1.HD.uk"
+        },
+        {
+          "name": "TNT Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+          "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "TNT.Sports.2.HD.uk"
+        },
+        {
+          "name": "TNT Sports 3 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+          "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "TNT.Sports.3.HD.uk"
+        },
+        {
+          "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
+          "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": "TNT.Sports.4.HD.uk"
+        },
+        {
+          "name": "Dazn 1 🇩🇪",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
+          "lite": false,
+          "epgfile": "epg_ripper_DE1.xml.gz",
+          "epgId": "DAZN.1.de"
+        },
+        {
+          "name": "Dazn 2 🇩🇪",
+          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
+          "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
+          "lite": false,
+          "epgfile": "epg_ripper_DE1.xml.gz",
+          "epgId": "DAZN.2.de"
+        },
+        {
+          "name": "Dazn 1 🇵🇹",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+          "lite": false,
+          "epgfile": "epg_ripper_PT1.xml.gz",
+          "epgId": "DAZN.1.pt"
+        },
+        {
+          "name": "TVP Sport 🇵🇱",
+          "image": "https://www.press.pl/images/contents/photo_68177_1637259666_big.jpg",
+          "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867",
+          "lite": false,
+          "epgfile": "epg_ripper_PL1.xml.gz",
+          "epgId": "TVP.Sport.HD.pl"
+        },
+        {
+          "name": "SKY Sport Aus 1 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e",
+          "lite": false,
+          "epgfile": "epg_ripper_AT1.xml.gz",
+          "epgId": "Sky.Sport.1.at"
+        },
+        {
+          "name": "SKY Sport Aus 2 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b",
+          "lite": false,
+          "epgfile": "epg_ripper_AT1.xml.gz",
+          "epgId": "Sky.Sport.2.at"
+        },
+        {
+          "name": "SKY Sport Aus 3 🇦🇹",
+          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
+          "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f",
+          "lite": false,
+          "epgfile": "epg_ripper_AT1.xml.gz",
+          "epgId": "Sky.Sport.3.at"
         }
       ]
     },
@@ -714,231 +893,6 @@
           "lite": false,
           "epgfile": "epg_ripper_ES2.xml.gz",
           "epgId": "dazn_eventos_2.es"
-        }
-      ]
-    },
-    {
-      "name": "LaLiga/Copa Estrangers",
-      "image": "http://xesc.top/thmb/laligaex.png",
-      "stations": [
-        {
-          "name": "Match! Football 2 🇷🇺",
-          "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
-          "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-          "lite": false,
-          "epgfile": "epg_ripper_RU1.xml.gz",
-          "epgId": "match_football_2.ru"
-        },
-        {
-          "name": "Ziggo Sports 🇳🇱",
-          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
-          "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-          "lite": false,
-          "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "Ziggo.Sport.nl"
-        },
-        {
-          "name": "Ziggo Sports 2 🇳🇱",
-          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
-          "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-          "lite": false,
-          "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "Ziggo.Sport.2.nl"
-        },
-        {
-          "name": "Setanta Sports 2 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
-          "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
-          "lite": false,
-          "epgfile": "epg_ripper_LV1.xml.gz",
-          "epgId": "Setanta.Sports.2.HD.lv"
-        },
-        {
-          "name": "Dazn 2 🇵🇹",
-          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
-          "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-          "lite": false,
-          "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "DAZN.2.pt"
-        },
-        {
-          "name": "Bein Sport 2 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
-          "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
-          "lite": false,
-          "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "beIN.SPORTS.2.fr"
-        },
-        {
-          "name": "Nova Sport 4 🇨🇿",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYokQ0IFD0gEjz6oqYitB6trEN5rMWLbQzzQ0B2w-5n4UxmgZCg13RKlo&s=10",
-          "url": "acestream://1408de419b1abeac470094e284a07c3512342d69",
-          "lite": false,
-          "epgfile": "epg_ripper_CZ1.xml.gz",
-          "epgId": "Nova.Sport.4.cz"
-        },
-        {
-          "name": "PimpleTV 🇹🇷",
-          "image": "https://sportball24.com/media/photos/2025/0115/pimpletv-729209_472571.jpeg",
-          "url": "acestream://8442b5c7c99e5af57c2c40c1e28153072968988a",
-          "lite": false,
-          "epgfile": "epg_ripper_TR1.xml.gz",
-          "epgId": "pimpletv.tr"
-        },
-        {
-          "name": "Turkmenistan Sport 🇹🇲",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3vIrt_oEJC--gHStd9UmsZB68zvk5KwCvw&s",
-          "url": "acestream://c3f5acd35086090c5fc815b961006630248b7dc0",
-          "lite": false,
-          "epgfile": "epg_ripper_TM1.xml.gz",
-          "epgId": "turkmenistan_sport.tm"
-        },
-        {
-          "name": "Turkmenistan Sport 🇹🇲",
-          "url": "acestream://9bec6a4c3398e44d20a5df038ceceb92b5999a15",
-          "lite": false
-        },
-        {
-          "name": "Dazn 1 🇩🇪",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-          "lite": false,
-          "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "DAZN.1.de"
-        },
-        {
-          "name": "Canal+ Sport 🇫🇷",
-          "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
-          "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
-          "lite": false,
-          "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "Canal+.Sport.fr"
-        },
-        {
-          "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
-          "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "Premier.Sports.1.HD.uk"
-        },
-        {
-          "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
-          "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "Premier.Sports.2.HD.uk"
-        }
-      ]
-    },
-    {
-      "name": "Champions League Estrangers",
-      "image": "http://xesc.top/thmb/championsext.png",
-      "stations": [
-        {
-          "name": "Ziggo Sports 1 🇳🇱",
-          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
-          "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-          "lite": false,
-          "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "Ziggo.Sport.nl"
-        },
-        {
-          "name": "Ziggo Sports 2 🇳🇱",
-          "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
-          "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-          "lite": false,
-          "epgfile": "epg_ripper_NL1.xml.gz",
-          "epgId": "Ziggo.Sport.2.nl"
-        },
-        {
-          "name": "TNT Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
-          "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "TNT.Sports.1.HD.uk"
-        },
-        {
-          "name": "TNT Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
-          "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "TNT.Sports.2.HD.uk"
-        },
-        {
-          "name": "TNT Sports 3 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
-          "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "TNT.Sports.3.HD.uk"
-        },
-        {
-          "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
-          "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
-          "lite": false,
-          "epgfile": "epg_ripper_UK1.xml.gz",
-          "epgId": "TNT.Sports.4.HD.uk"
-        },
-        {
-          "name": "Dazn 1 🇩🇪",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-          "lite": false,
-          "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "DAZN.1.de"
-        },
-        {
-          "name": "Dazn 2 🇩🇪",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
-          "lite": false,
-          "epgfile": "epg_ripper_DE1.xml.gz",
-          "epgId": "DAZN.2.de"
-        },
-        {
-          "name": "Dazn 1 🇵🇹",
-          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
-          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-          "lite": false,
-          "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "DAZN.1.pt"
-        },
-        {
-          "name": "TVP Sport 🇵🇱",
-          "image": "https://www.press.pl/images/contents/photo_68177_1637259666_big.jpg",
-          "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867",
-          "lite": false,
-          "epgfile": "epg_ripper_PL1.xml.gz",
-          "epgId": "TVP.Sport.HD.pl"
-        },
-        {
-          "name": "SKY Sport Aus 1 🇦🇹",
-          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
-          "url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e",
-          "lite": false,
-          "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "Sky.Sport.1.at"
-        },
-        {
-          "name": "SKY Sport Aus 2 🇦🇹",
-          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
-          "url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b",
-          "lite": false,
-          "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "Sky.Sport.2.at"
-        },
-        {
-          "name": "SKY Sport Aus 3 🇦🇹",
-          "image": "https://fussball.hatcoach.org/sender/sky-sport-austria.png",
-          "url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f",
-          "lite": false,
-          "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "Sky.Sport.3.at"
         }
       ]
     },
