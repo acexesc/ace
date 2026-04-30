@@ -2000,11 +2000,11 @@
       "image": "https://logos.com/acestream.png"
     },
     {
-      "name": "AceStream",
-      "url": "https://apks.com/acestream_armv8.apk",
+      "name": "ASLTV",
+      "url": "http://xesc.top:8000/file/ASLTV.apk",
       "armv": 8,
-      "version": "3.1.75",
-      "description": "Motor AceStream para ARM 64-bit"
+      "version": "1.0.0",
+      "description": "ASLTV nova versió"
     }
   ]
 }
