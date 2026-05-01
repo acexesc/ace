@@ -1946,19 +1946,20 @@
   ],
   "apks": [
     {
-      "name": "AceStream",
-      "url": "https://apks.com/acestream_armv7.apk",
+      "name": "AceStream Firestick",
+      "url": "http://xesc.top:8000/file/AceStream-3.2.18.0-base.apk",
       "armv": 7,
-      "version": "3.1.75",
-      "description": "Motor AceStream para ARM 32-bit",
-      "image": "https://logos.com/acestream.png"
+      "version": "3.2.18.0",
+      "description": "Motor AceStream per FIRESTICK",
+      "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf-thumbnail.png"
     },
     {
       "name": "ASLTV",
       "url": "http://xesc.top:8000/file/ASLTV.apk",
       "armv": 8,
       "version": "1.0.0",
-      "description": "ASLTV nova versió"
+      "description": "ASLTV nova versió",
+      "image": "http://xesc.top/thmb/logo2.png"
     }
   ]
 }
