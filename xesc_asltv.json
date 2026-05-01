@@ -5,9 +5,9 @@
   "urlmirror": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
   "epgUrl": "https://epgshare01.online/epgshare01/",
   "appUpdate": {
-    "url": "https://ejemplo.com/app-v1.1.0.apk",
+    "url": "http://xesc.top:8000/file/ASLTV.apk",
     "version": "1.1.0",
-    "description": "Corrección de errores y mejoras de rendimiento"
+    "description": "Correcció d'errors i millores de rendiment"
   },
   "bannerImage": "https://static.vecteezy.com/system/resources/thumbnails/000/701/690/small/abstract-polygonal-banner-background.jpg",
   "groups": [
