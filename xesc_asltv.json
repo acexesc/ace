@@ -6,7 +6,7 @@
   "epgUrl": "https://epgshare01.online/epgshare01/",
   "appUpdate": {
     "url": "http://xesc.top:8000/file/ASLTV.apk",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "description": "Correcció d'errors i millores de rendiment"
   },
   "bannerImage": "http://xesc.top/thmb/banner.png",
