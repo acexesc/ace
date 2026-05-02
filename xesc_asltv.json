@@ -3,7 +3,7 @@
   "author": "xesc",
   "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
   "urlmirror": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
-  "epgUrl": "https://epgshare01.online/epgshare01/",
+  "epgUrl": "https://www.open-epg.com/generate/8URTgwwTdB.xml",
   "appUpdate": {
     "url": "http://xesc.top:8000/file/ASLTV.apk",
     "version": "1.0.0",
