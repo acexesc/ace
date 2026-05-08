@@ -1961,6 +1961,22 @@
       "description": "Motor AceStream per AndroidTV/GoogleTV",
       "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf-thumbnail.png"
     },
+{
+      "name": "AceServe Firestick",
+      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.6-arm.apk",
+      "armv": 7,
+      "version": "1.5.6",
+      "description": "Motor AceStream ALTERNATIU per FIRESTICK",
+      "image": "http://xesc.top/thmb/aceserve.png"
+    },
+{
+      "name": "AceServe AndroidTV (AceStream alternatiu)",
+      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.6-arm64.apk",
+      "armv": 8,
+      "version": "1.5.6",
+      "description": "Motor AceStream ALTERNATIU per AndroidTV/GoogleTV",
+      "image": "http://xesc.top/thmb/aceserve.png"
+    },
     {
       "name": "ASLTV",
       "url": "http://xesc.top:8000/file/ASLTV.apk",
