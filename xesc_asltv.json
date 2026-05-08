@@ -233,12 +233,12 @@
           "epgId": "DAZN.1.de"
         },
         {
-          "name": "Canal+ Sport 🇫🇷",
+          "name": "Canal+ Sport 🇵🇱",
           "image": "https://thumb.canalplus.pro/http/unsafe/414x/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png",
           "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
           "lite": false,
-          "epgfile": "epg_ripper_FR1.xml.gz",
-          "epgId": "Canal+.Sport.fr"
+          "epgfile": "epg_ripper_PL1.xml.gz",
+          "epgId": "CANAL+.Sport.HD.pl"
         },
         {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
