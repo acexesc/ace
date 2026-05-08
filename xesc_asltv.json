@@ -1977,6 +1977,22 @@
       "description": "Motor AceStream ALTERNATIU per AndroidTV/GoogleTV",
       "image": "http://xesc.top/thmb/aceserve.png"
     },
+{
+      "name": "VLC Firestick",
+      "url": "http://xesc.top:8000/file/VLC-Android-3.7.0-armeabi-v7a.apk",
+      "armv": 7,
+      "version": "3.7.0",
+      "description": "Reproductor VLC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2Dqby0ZPn0qfuxyYPxXylVgam7WLg3q1A9nSAd1hyg&s=10"
+    },
+{
+      "name": "VLC AndroidTV",
+      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.6-arm64.apk",
+      "armv": 8,
+      "version": "1.5.6",
+      "description": "Reproductor VLC per AndroidTV/GoogleTV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2Dqby0ZPn0qfuxyYPxXylVgam7WLg3q1A9nSAd1hyg&s=10"
+    },
     {
       "name": "ASLTV",
       "url": "http://xesc.top:8000/file/ASLTV.apk",
