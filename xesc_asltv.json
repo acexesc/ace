@@ -185,7 +185,8 @@
           "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "DAZN.2.pt"
+          "epgId": "DAZN.2.pt",
+          "epghora": -1
         },
         {
           "name": "Bein Sport 2 🇫🇷",
