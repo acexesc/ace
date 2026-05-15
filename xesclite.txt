@@ -47,7 +47,7 @@
         		{
                     "name": "Dazn MotoGP                 FullHD",
                     "image": "https://img.redbull.com/images/c_crop,x_737,y_0,h_2560,w_2048/c_fill,w_800,h_1000/q_auto,f_auto/redbullcom/2025/6/30/wzfdjcvp43rsu6lgub3x/maverick-vinales-red-bull-ktm-holanda-motogp-assen-2025-carrera-accion",
-              "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5"
+              "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137"
                 },
         {
           "name": "MotoGP Estrangers 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
