@@ -1929,7 +1929,7 @@
         {
           "name": "Esdeveniment2",
           "image": "https://i.postimg.cc/y8tLPDNM/esdv2.png",
-          "url": "acestream://61a74bb05938f79fc03c0bfdfdcb6fbdb97e8be0",
+          "url": "http://streaming.enantena.com:8000/radiob128.mp3",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_2.es"
@@ -1977,22 +1977,6 @@
       "version": "1.5.6",
       "description": "Motor AceStream ALTERNATIU per AndroidTV/GoogleTV",
       "image": "http://xesc.top/thmb/aceserve.png"
-    },
-{
-      "name": "VLC Firestick",
-      "url": "http://xesc.top:8000/file/VLC-Android-3.7.0-armeabi-v7a.apk",
-      "armv": 7,
-      "version": "3.7.0",
-      "description": "Reproductor VLC",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2Dqby0ZPn0qfuxyYPxXylVgam7WLg3q1A9nSAd1hyg&s=10"
-    },
-{
-      "name": "VLC AndroidTV",
-      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.6-arm64.apk",
-      "armv": 8,
-      "version": "1.5.6",
-      "description": "Reproductor VLC per AndroidTV/GoogleTV",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2Dqby0ZPn0qfuxyYPxXylVgam7WLg3q1A9nSAd1hyg&s=10"
     },
     {
       "name": "ASLTV",
