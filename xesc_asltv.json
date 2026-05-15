@@ -904,24 +904,39 @@
         {
           "name": "Dazn MotoGP",
           "image": "http://xesc.top/thmb/daznmgp.png",
-          "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5",
+          "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "Moto.GP.es"
         },
         {
           "name": "Dazn MotoGP",
+          "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137",
+          "lite": false
+        },
+        {
+          "name": "Dazn MotoGP",
+          "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+          "lite": false
+        },
+        {
+          "name": "Dazn MotoGP",
           "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
           "lite": false
         },
-        {
+ {
           "name": "Dazn MotoGP",
-          "url": "acestream://ef341794651e00b7fcc5b5da8570ea37418c5406",
+          "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
           "lite": false
         },
-        {
+ {
           "name": "Dazn MotoGP",
-          "url": "acestream://5548659c188e1d4d3b6e756e6c56485eb242abac",
+          "url": "acestream://11cbb5346d28af0b972e646832f4be23dd39502d",
+          "lite": false
+        },
+ {
+          "name": "Dazn MotoGP",
+          "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
           "lite": false
         },
         {
