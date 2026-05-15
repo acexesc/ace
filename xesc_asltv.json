@@ -1937,7 +1937,7 @@
         {
           "name": "Rac1",
           "image": "https://iconape.com/wp-content/png_logo_vector/rac1-logo.png",
-          "url": "https://25243.live.streamtheworld.com/RAC_1.mp3",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -1946,22 +1946,6 @@
           "name": "Catalunya Radio",
           "image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Catradio_logo1993.png/revision/latest?cb=20170918201205",
           "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
-          "lite": false,
-          "epgfile": "epg_ripper_ES1.xml.gz",
-          "epgId": "esdeveniment_3.es"
-        },
-{
-          "name": "Cadena Ser",
-          "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-          "lite": false,
-          "epgfile": "epg_ripper_ES1.xml.gz",
-          "epgId": "esdeveniment_3.es"
-        },
-{
-          "name": "Radio Marca",
-          "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -1978,6 +1962,62 @@
           "name": "Flaix FM",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ocu2Pi-HhxqTYr0l9ecY1JCB3rFuT-jWXnuF58gldg&s=10",
           "url": "https://stream.flaixfm.cat/icecast",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Flaixbac",
+          "image": "https://s3.eu-west-3.amazonaws.com/test-flaix/public/original/1661755908507-flaixbactemporada.jpeg",
+          "url": "https://stream.flaixbac.cat/icecast",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "iCAT",
+          "image": "https://www.radiocalellatv.cat/wp-content/uploads/2015/06/icat1.jpg",
+          "url": "https://directes-radio-int.3catdirectes.cat/live-content/icat-hls/master.m3u8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Los40 Catalunya",
+          "image": "https://brandemia.org/sites/default/files/sites/default/files/logs40_logo_antes.jpg",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Cadena Ser",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Cadena Ser Catalunya",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Radio Marca",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Radio Marca Barcelona",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
+          "url": "https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
