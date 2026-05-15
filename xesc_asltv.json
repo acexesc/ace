@@ -1915,6 +1915,36 @@
       ]
     },
     {
+      "name": "TDT i Ràdio",
+      "image": "http://xesc.top/thmb/tdtradio.png",
+      "stations": [
+        {
+          "name": "TDT",
+          "image": "https://www.channelpartner.es/wp-content/uploads/2010/03/14788_64.jpg.webp",
+          "url": "https://www.tdtchannels.com/lists/tv.m3u8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_1.es"
+        },
+        {
+          "name": "Ràdio Badalona",
+          "image": "https://ik.imagekit.io/7ftrkrun31/enacast/logos/2018/09/03/LOGO_1400X1400.png?tr=w-1024",
+          "url": "http://streaming.enantena.com:8000/radiob128.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_2.es"
+        },
+        {
+          "name": "Esdeveniment3",
+          "image": "https://i.postimg.cc/xTdgVvNr/esdv3.png",
+          "url": "acestream://2cfe7b466fd2cf101fb711793beeb9f55ec50ce4",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        }
+      ]
+    },
+    {
       "name": "Esdeveniments",
       "image": "https://i.postimg.cc/tCRvC0fM/esdv1.png",
       "stations": [
