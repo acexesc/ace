@@ -1935,13 +1935,53 @@
           "epgId": "esdeveniment_2.es"
         },
         {
-          "name": "Esdeveniment3",
-          "image": "https://i.postimg.cc/xTdgVvNr/esdv3.png",
-          "url": "acestream://2cfe7b466fd2cf101fb711793beeb9f55ec50ce4",
+          "name": "Rac1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logotip_de_RAC_1.svg/250px-Logotip_de_RAC_1.svg.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
-        }
+        },
+{
+          "name": "Catalunya Radio",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Catalunya_R%C3%A0dio_2023_Logo.svg/1280px-Catalunya_R%C3%A0dio_2023_Logo.svg.png",
+          "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Cadena Ser",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Radio Marca",
+          "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Kiss FM",
+          "image": "https://myradioonline.es/public/uploads/radio_img/kiss-fm/play_250_250.webp",
+          "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
+          "name": "Flaix FM",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ocu2Pi-HhxqTYr0l9ecY1JCB3rFuT-jWXnuF58gldg&s=10",
+          "url": "https://stream.flaixfm.cat/icecast",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
       ]
     },
     {
