@@ -1998,6 +1998,14 @@
           "epgId": "esdeveniment_1.es"
         },
         {
+          "name": "TV3",
+          "image": "https://pbs.twimg.com/profile_images/568397896798572544/3J91EYT0_400x400.png",
+          "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "TV3CAT.es"
+        },
+        {
           "name": "Ràdio Badalona",
           "image": "https://ik.imagekit.io/7ftrkrun31/enacast/logos/2018/09/03/LOGO_1400X1400.png?tr=w-1024",
           "url": "http://streaming.enantena.com:8000/radiob128.mp3",
