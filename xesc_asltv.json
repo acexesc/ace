@@ -2010,6 +2010,7 @@
           "image": "https://iconape.com/wp-content/png_logo_vector/rac1-logo.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
           "lite": false,
+          "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
         },
@@ -2018,6 +2019,7 @@
           "image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Catradio_logo1993.png/revision/latest?cb=20170918201205",
           "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
           "lite": false,
+          "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
         },
@@ -2082,6 +2084,7 @@
           "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
           "lite": false,
+          "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
         },
