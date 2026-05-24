@@ -1181,7 +1181,7 @@
         },
         {
           "name": "Dazn ACB 1",
-          "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
+          "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
           "lite": false
         },
         {
@@ -1191,7 +1191,7 @@
         },
         {
           "name": "Dazn ACB 1",
-          "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+          "url": "acestream://4005aabe21ba9c6d748845db91e4f48d99f58639",
           "lite": false
         },
         {
@@ -1202,14 +1202,14 @@
         {
           "name": "Dazn ACB 2",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
+          "url": "acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_2.es"
         },
         {
           "name": "Dazn ACB 2",
-          "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+          "url": "acestream://853129258a5cb51f27829eddb934e58b45978344",
           "lite": false
         },
         {
@@ -1220,20 +1220,41 @@
         {
           "name": "Dazn ACB 3",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c",
+          "url": "acestream://95125f755562c0ffcb44abd94e338bd65472afea",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_3.es"
         },
         {
           "name": "Dazn ACB 3",
-          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9",
+          "url": "acestream://13d68ecb392251a81489ce75be90388498ecfb91",
           "lite": false
         },
         {
           "name": "Dazn ACB 3",
           "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae",
           "lite": false
+        },
+{
+          "name": "Movistar+ Baloncesto 1",
+          "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
+          "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "dazn_acb_3.es"
+        },
+{
+          "name": "Movistar+ Baloncesto 1",
+          "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+          "lite": false
+        },
+{
+          "name": "Movistar+ Baloncesto 2",
+          "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
+          "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "dazn_acb_3.es"
         },
         {
           "name": "Sport Klub 🇵🇱",
