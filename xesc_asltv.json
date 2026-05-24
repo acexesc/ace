@@ -2031,7 +2031,7 @@
         },
         {
           "name": "Rac1",
-          "image": "https://iconape.com/wp-content/png_logo_vector/rac1-logo.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logotip_de_RAC_1.svg/250px-Logotip_de_RAC_1.svg.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
           "lite": false,
           "audiovideo": true,
