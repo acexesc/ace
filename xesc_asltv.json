@@ -4,7 +4,7 @@
   "url": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
   "urlmirror": "https://raw.githubusercontent.com/acexesc/ace/refs/heads/main/xesc_asltv.json",
   "epgUrl": "https://epgshare01.online/epgshare01/",
-  "msginfo": "Prova: /nLorem <b>ipsum dolor sit amet<b>, consectetur adipiscing elit. /n Nulla fermentum lectus diam, ac mollis ante accumsan in.",
+  "msginfo": "",
   "appUpdate": {
     "url": "http://xesc.top:8000/file/ASLTV.apk",
     "version": "1.3.1",
