@@ -21,6 +21,7 @@
           "image": "https://static.bianet.org/system/uploads/1/articles/spot_image/000/121/126/original/trt_gr.jpg",
           "url": "acestream://d4384fd1b8d17bb4e31e60c9edce0c4a8f3fe1fb",
           "lite": false,
+          "epghora": +1,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": "TRT.1.HD.tr"
         },
