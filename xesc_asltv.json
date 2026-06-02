@@ -16,6 +16,14 @@
       "name": "Mundial",
       "image": "http://xesc.top/thmb/mundial.jpg",
       "stations": [
+{
+          "name": "TRT1 🇹🇷",
+          "image": "https://static.bianet.org/system/uploads/1/articles/spot_image/000/121/126/original/trt_gr.jpg",
+          "url": "acestream://d4384fd1b8d17bb4e31e60c9edce0c4a8f3fe1fb",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": "TRT.1.HD.tr"
+        },
         {
           "name": "ORF Sport 1 🇦🇹",
           "image": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
@@ -55,6 +63,22 @@
           "lite": false,
           "epgfile": "epg_ripper_RU1.xml.gz",
           "epgId": "match_football_1.ru"
+        },
+{
+          "name": "CT Sport 🇨🇿",
+          "image": "https://www.poda.cz/wp-content/uploads/2023/02/ct-sport.png",
+          "url": "acestream://a0c58fd62867f9fe02b94826fca172ef26bea9cc",
+          "lite": false,
+          "epgfile": "epg_ripper_CZ1.xml.gz",
+          "epgId": "ÄŒT.sport.cz"
+        },
+{
+          "name": "RUV 🇮🇸",
+          "image": "https://i0.wp.com/rostrumplus.net/wp-content/uploads/2015/06/iceland-ruv.png",
+          "url": "acestream://a5d4dfef63234f02d3ba776a151eaa8cfbf783e6",
+          "lite": false,
+          "epgfile": "epg_ripper_RU1.xml.gz",
+          "epgId": ""
         }
       ]
     },
