@@ -2078,6 +2078,15 @@
           "epgId": "esdeveniment_3.es"
         },
 {
+          "name": "Rac+1",
+          "image": "https://www.vectorlogo.es/wp-content/uploads/2016/02/logo-vector-rac1.jpg",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
+          "lite": false,
+          "audiovideo": true,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es"
+        },
+{
           "name": "Catalunya Radio",
           "image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Catradio_logo1993.png/revision/latest?cb=20170918201205",
           "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
