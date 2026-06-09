@@ -69,10 +69,10 @@
           "image": "https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg",
           "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
         },
-  {
-          "name": "ACB Argentina   ",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
-          "url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac"
+          {
+          "name": "Sport Klub 🇵🇱",
+          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
         },
   {
           "name": "TV Start 🇷🇺 ACB                  ",
