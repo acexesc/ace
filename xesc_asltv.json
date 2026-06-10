@@ -17,6 +17,62 @@
       "image": "http://xesc.top/thmb/mundial.jpg",
       "stations": [
 {
+          "name": "Dazn Mundial 1",
+          "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
+          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Dazn Mundial 2",
+          "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
+          "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Dazn Mundial 3",
+          "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
+          "url": "acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Dazn Mundial 4",
+          "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
+          "url": "acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Direct Sport 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",
+          "url": "acestream://1b25b195b1b84d4b96830410657718e9e275ad49",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Direct Sport+",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",
+          "url": "acestream://abfb5236dee14625fe1b19ee27f3a89fb6767dcb",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
+          "name": "Direct Sport 2",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",
+          "url": "acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
+        },
+{
           "name": "TRT1 🇹🇷",
           "image": "https://static.bianet.org/system/uploads/1/articles/spot_image/000/121/126/original/trt_gr.jpg",
           "url": "acestream://d4384fd1b8d17bb4e31e60c9edce0c4a8f3fe1fb",
