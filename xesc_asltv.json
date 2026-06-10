@@ -1702,6 +1702,14 @@
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "premier_sports_2.uk"
         },
+  {
+          "name": "SkySports Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png",
+          "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+          "lite": false,
+          "epgfile": "epg_ripper_UK1.xml.gz",
+          "epgId": ""
+        },
         {
           "name": "Ziggo Sports 🇳🇱",
           "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
