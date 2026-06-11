@@ -19,10 +19,45 @@
 {
           "name": "Dazn Mundial 1",
           "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
-          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": ""
+        },
+  {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "lite": false
+        },
+   {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
+          "lite": false
+        },
+        {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+          "lite": false
+        },
+        {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+          "lite": false
+        },
+        {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8",
+          "lite": false
+        },
+        {
+          "name": "Dazn Mundial 1",
+          "url": "acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a",
+          "lite": false
+        },
+{
+          "name": "Dazn Mundial 1",
+          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+          "lite": false
         },
 {
           "name": "Dazn Mundial 2",
