@@ -21,8 +21,8 @@
           "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
           "lite": false,
-          "epgfile": "epg_ripper_TR1.xml.gz",
-          "epgId": ""
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "DAZN.LALIGA.es"
         },
    {
           "name": "Dazn Mundial 1",
