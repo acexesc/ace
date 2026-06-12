@@ -1353,6 +1353,14 @@
           "epgfile": "epg_ripper_PL1.xml.gz",
           "epgId": "Sportklub.HD.pl"
         },
+        {
+          "name": "Sport 4 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png",
+          "url": "acestream://440265fecde5d316e06fea019775208cf4c3feec",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
+        },
        {
           "name": "Dazn 3 🇵🇹",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
@@ -1796,6 +1804,14 @@
           "lite": false,
           "epgfile": "epg_ripper_CZ1.xml.gz",
           "epgId": "nova_sport_4.cz"
+        },
+        {
+          "name": "Sport 4 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png",
+          "url": "acestream://440265fecde5d316e06fea019775208cf4c3feec",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
         },
         {
           "name": "Sport 5 🇮🇱",
