@@ -1353,6 +1353,14 @@
           "epgfile": "epg_ripper_PL1.xml.gz",
           "epgId": "Sportklub.HD.pl"
         },
+       {
+          "name": "Dazn 3 🇵🇹",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
+          "url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+          "lite": false,
+          "epgfile": "epg_ripper_PT1.xml.gz",
+          "epgId": "DAZN.3.pt"
+        },
         {
           "name": "FOX Sports 2 🇦🇷",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
