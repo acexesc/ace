@@ -67,23 +67,7 @@
           "epghora": +1,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": "TRT.1.HD.tr"
-        },
-        {
-          "name": "ORF Sport 1 🇦🇹",
-          "image": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
-          "url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974",
-          "lite": false,
-          "epgfile": "epg_ripper_AT1.xml.gz",
-          "epgId": "orf_sport_1.at"
-        },
-{
-          "name": "FOX SPORTS 1 🇺🇸",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
-          "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
-          "lite": false,
-          "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "fox_sports_1.us"
-        },
+        }, 
 {
           "name": "Bein Sport 1 🇫🇷",
           "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
@@ -115,14 +99,6 @@
           "lite": false,
           "epgfile": "epg_ripper_CZ1.xml.gz",
           "epgId": "ÄŒT.sport.cz"
-        },
-{
-          "name": "RUV 🇮🇸",
-          "image": "https://i0.wp.com/rostrumplus.net/wp-content/uploads/2015/06/iceland-ruv.png",
-          "url": "acestream://a5d4dfef63234f02d3ba776a151eaa8cfbf783e6",
-          "lite": false,
-          "epgfile": "epg_ripper_RU1.xml.gz",
-          "epgId": ""
         }
       ]
     },
