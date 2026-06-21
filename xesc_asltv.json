@@ -108,6 +108,15 @@
           "epghora": +1,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": ""
+        },
+{
+          "name": "Kinopoisk 🇷🇺",
+          "image": "https://cdn.regnum.ru/uploads/pictures/news/2021/11/03/regnum_picture_16359437434419_normal.png",
+          "url": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
+          "lite": false,
+          "epghora": +1,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": ""
         }
       ]
     },
