@@ -1150,24 +1150,24 @@
         {
           "name": "Dazn F1",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-          "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
+          "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.F1.es"
         },
         {
           "name": "Dazn F1",
-          "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+          "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
           "lite": false
         },
         {
           "name": "Dazn F1",
-          "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+          "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
           "lite": false
         },
         {
           "name": "Dazn F1",
-          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
+          "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
           "lite": false
         },
         {
