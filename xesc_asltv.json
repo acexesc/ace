@@ -2301,6 +2301,7 @@
           "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
           "lite": false,
+          "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
         },
