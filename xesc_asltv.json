@@ -104,7 +104,7 @@
           "name": "§port 🇸🇰",
           "image": "https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png",
           "url": "acestream://c4b4277061b1d2db78b6c6bb0713ca89dbed77a6",
-          "lite": false,
+          "lite": true,
           "epghora": +1,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": ""
