@@ -20,7 +20,7 @@
           "name": "Dazn Mundial 1",
           "image": "https://static.chollometro.com/threads/raw/sd4A4/1900488_1/re/768x768/qt/60/1900488_1.jpg",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.LALIGA.es"
         },
@@ -128,7 +128,7 @@
           "name": "DAZN LaLiga",
           "image": "http://xesc.top:8081/thmb/daznlaliga1.png",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.LALIGA.es"
         },
@@ -199,7 +199,7 @@
           "name": "M+ LaLiga",
           "image": "http://xesc.top:8081/thmb/mlaliga1.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.LALIGA.TV.es"
         },
@@ -270,7 +270,7 @@
           "name": "Match! Football 2 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_RU1.xml.gz",
           "epgId": "match_football_2.ru"
         },
@@ -386,7 +386,7 @@
           "name": "M+ Champions 1",
           "image": "http://xesc.top:8081/thmb/chamions1.png",
           "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Liga.de.Campeones.es"
         },
@@ -449,7 +449,7 @@
           "name": "M+ Champions 2",
           "image": "http://xesc.top:8081/thmb/chamions2.png",
           "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Liga.de.Campeones.2.es"
         },
@@ -563,7 +563,7 @@
           "name": "Ziggo Sports 1 🇳🇱",
           "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_NL1.xml.gz",
           "epgId": "Ziggo.Sport.nl"
         },
@@ -571,7 +571,7 @@
           "name": "Ziggo Sports 2 🇳🇱",
           "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
           "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_NL1.xml.gz",
           "epgId": "Ziggo.Sport.2.nl"
         },
@@ -579,7 +579,7 @@
           "name": "TRT1 🇹🇷",
           "image": "https://static.bianet.org/system/uploads/1/articles/spot_image/000/121/126/original/trt_gr.jpg",
           "url": "acestream://d4384fd1b8d17bb4e31e60c9edce0c4a8f3fe1fb",
-          "lite": false,
+          "lite": true,
           "epghora": +1,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": "TRT.1.HD.tr"
@@ -606,7 +606,7 @@
           "name": "TNT Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.1.HD.uk"
         },
@@ -614,7 +614,7 @@
           "name": "TNT Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.2.HD.uk"
         },
@@ -622,7 +622,7 @@
           "name": "TNT Sports 3 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.3.HD.uk"
         },
@@ -630,7 +630,7 @@
           "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.4.HD.uk"
         },
@@ -700,7 +700,7 @@
           "name": "M+ Deportes 1",
           "image": "http://xesc.top:8081/thmb/deportes1.png",
           "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Deportes.es"
         },
@@ -779,7 +779,7 @@
           "name": "Vamos",
           "image": "http://xesc.top:8081/thmb/vamos.png",
           "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Vamos.es"
         },
@@ -836,7 +836,7 @@
           "name": "M+ Plus",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
           "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "Movistar.Plus.es"
         },
@@ -963,7 +963,7 @@
           "name": "Dazn 1",
           "image": "http://xesc.top:8081/thmb/dazn1.png",
           "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.1.es"
         },
@@ -1051,7 +1051,7 @@
           "name": "Dazn MotoGP",
           "image": "http://xesc.top:8081/thmb/daznmgp.png",
           "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "Moto.GP.es"
         },
@@ -1089,7 +1089,7 @@
           "name": "TNT Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.2.HD.uk"
         },
@@ -1097,7 +1097,7 @@
           "name": "TNT Sports 4 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://i.pinimg.com/564x/6d/2c/2f/6d2c2ff128814ba844cca6f69ef36aac.jpg",
           "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "TNT.Sports.4.HD.uk"
         },
@@ -1105,7 +1105,7 @@
           "name": "Servus TV 🇦🇹",
           "image": "https://seeklogo.com/images/S/servus-tv-logo-DAA97A7E35-seeklogo.com.png",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_AT1.xml.gz",
           "epgId": "Servus.TV.HD.at"
         },
@@ -1113,7 +1113,7 @@
           "name": "Ziggo Sports 🇳🇱",
           "image": "https://ik.imagekit.io/tp/20220204-ziggo-logo.png",
           "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_NL1.xml.gz",
           "epgId": "Ziggo.Sport.nl"
         },
@@ -1151,7 +1151,7 @@
           "name": "Dazn F1",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
           "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.F1.es"
         },
@@ -1219,7 +1219,7 @@
           "name": "Sky Sport F1 🇩🇪",
           "image": "https://media.info/l/f/1/1514.1500468425.png",
           "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_DE1.xml.gz",
           "epgId": "Sky.Sport.F1.de"
         },
@@ -1227,7 +1227,7 @@
           "name": "Dazn Eleven 1 🇵🇹",
           "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
           "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_PT1.xml.gz",
           "epgId": "DAZN.1.pt"
         },
@@ -1265,7 +1265,7 @@
           "name": "Dazn ACB 1",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_1.es"
         },
@@ -1370,7 +1370,7 @@
           "name": "Sport Klub 🇵🇱",
           "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_PL1.xml.gz",
           "epgId": "Sportklub.HD.pl"
         },
@@ -1378,7 +1378,7 @@
           "name": "Sport 4 🇮🇱",
           "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
           "url": "acestream://440265fecde5d316e06fea019775208cf4c3feec",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_IL1.xml.gz",
           "epgId": "sport_5.il"
         },
@@ -1440,7 +1440,7 @@
           "name": "NBA TV 🇺🇸",
           "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
           "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_US2.xml.gz",
           "epgId": "NBA.TV.HD.us2"
         },
@@ -1480,7 +1480,7 @@
           "name": "Sky Sport+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://cdn.aptoide.com/imgs/8/1/8/8186311de5263f8485f92cd66efa4c27_icon.png",
           "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "SkySp+HD.uk"
         },
@@ -1488,7 +1488,7 @@
           "name": "Bein Sport 1 🇫🇷",
           "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
           "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_FR1.xml.gz",
           "epgId": "beIN.SPORTS.1.fr"
         },
@@ -1504,7 +1504,7 @@
           "name": "Sport 5 🇮🇱",
           "image": "https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png",
           "url": "acestream://df6a549d5defc547f34eb52c114ff08d8332fe13",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_IL1.xml.gz",
           "epgId": "sport_5.il"
         },
@@ -2192,7 +2192,7 @@
           "name": "TDT",
           "image": "https://www.channelpartner.es/wp-content/uploads/2010/03/14788_64.jpg.webp",
           "url": "https://www.tdtchannels.com/lists/tv.m3u8",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_1.es"
         },
@@ -2200,7 +2200,7 @@
           "name": "TV3",
           "image": "https://pbs.twimg.com/profile_images/568397896798572544/3J91EYT0_400x400.png",
           "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "TV3.es"
         },
@@ -2208,7 +2208,7 @@
           "name": "Esport3",
           "image": "https://diretele.com/wp-content/uploads/2018/09/esport-3-en-directo.png",
           "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "TV3.CAT.es"
         },
@@ -2216,7 +2216,7 @@
           "name": "Teledeporte",
           "image": "https://r2.thesportsdb.com/images/media/channel/logo/zmv2oo1748079471.png",
           "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "Teledeporte.es"
         },
@@ -2224,7 +2224,7 @@
           "name": "Rac1",
           "image": "https://www.vectorlogo.es/wp-content/uploads/2016/02/logo-vector-rac1.jpg",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -2233,7 +2233,7 @@
           "name": "Rac+1",
           "image": "https://www.vectorlogo.es/wp-content/uploads/2016/02/logo-vector-rac1.jpg",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -2242,7 +2242,7 @@
           "name": "Catalunya Radio",
           "image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Catradio_logo1993.png/revision/latest?cb=20170918201205",
           "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -2251,7 +2251,7 @@
           "name": "Ràdio Badalona",
           "image": "https://ik.imagekit.io/7ftrkrun31/enacast/logos/2018/09/03/LOGO_1400X1400.png?tr=w-1024",
           "url": "http://streaming.enantena.com:8000/radiob128.mp3",
-          "lite": false,
+          "lite": true,
 "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_2.es"
@@ -2260,7 +2260,7 @@
           "name": "Kiss FM",
           "image": "https://myradioonline.es/public/uploads/radio_img/kiss-fm/play_250_250.webp",
           "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
         },
@@ -2300,7 +2300,7 @@
           "name": "Cadena Ser",
           "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -2309,7 +2309,7 @@
           "name": "Cadena Ser Catalunya",
           "image": "https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
@@ -2318,7 +2318,7 @@
           "name": "Radio Marca",
           "image": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.60356e7b.png",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
-          "lite": false,
+          "lite": true,
           "audiovideo": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "esdeveniment_3.es"
