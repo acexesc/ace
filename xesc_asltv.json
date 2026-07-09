@@ -1313,7 +1313,7 @@
           "name": "Dazn ACB 2",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_2.es"
         },
@@ -1331,7 +1331,7 @@
           "name": "Dazn ACB 3",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
           "url": "acestream://95125f755562c0ffcb44abd94e338bd65472afea",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_3.es"
         },
