@@ -385,7 +385,7 @@
         {
           "name": "M+ Champions 1",
           "image": "http://xesc.top:8081/thmb/chamions1.png",
-          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Liga.de.Campeones.es"
@@ -442,13 +442,13 @@
         },
         {
           "name": "M+ Champions 1",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
           "lite": false
         },
         {
           "name": "M+ Champions 2",
           "image": "http://xesc.top:8081/thmb/chamions2.png",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Liga.de.Campeones.2.es"
@@ -500,7 +500,7 @@
         },
         {
           "name": "M+ Champions 2",
-          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
           "lite": false
         },
         {
@@ -699,7 +699,7 @@
         {
           "name": "M+ Deportes 1",
           "image": "http://xesc.top:8081/thmb/deportes1.png",
-          "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "M+.Deportes.es"
@@ -731,7 +731,7 @@
         },
         {
           "name": "M+ Deportes 1",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
           "lite": false
         },
         {
