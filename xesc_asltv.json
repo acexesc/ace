@@ -1934,6 +1934,14 @@
           "epgfile": "epg_ripper_CZ1.xml.gz",
           "epgId": "nova_sport_1.cz"
         },
+{
+          "name": "CT Sport 🇨🇿",
+          "image": "https://www.poda.cz/wp-content/uploads/2023/02/ct-sport.png",
+          "url": "acestream://a0c58fd62867f9fe02b94826fca172ef26bea9cc",
+          "lite": false,
+          "epgfile": "epg_ripper_CZ1.xml.gz",
+          "epgId": "ÄŒT.sport.cz"
+        },
         {
           "name": "Magenta Sport 1 🇩🇪",
           "image": "https://m.media-amazon.com/images/I/61pAdLCxz7L.png",
