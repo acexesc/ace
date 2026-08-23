@@ -240,7 +240,7 @@
           "name": "Dazn 1 🇩🇪",
           "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_DE1.xml.gz",
           "epgId": "DAZN.1.de"
         },
