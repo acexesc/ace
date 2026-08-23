@@ -164,7 +164,7 @@
           "url": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
           "lite": true,
           "epgfile": "epg_ripper_RU1.xml.gz",
-          "epgId": "match_football_2.ru"
+          "epgId": "match_football_1.ru"
         },
 {
           "name": "Match! Football 2 🇷🇺",
@@ -196,7 +196,7 @@
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
           "lite": false,
           "epgfile": "epg_ripper_LV1.xml.gz",
-          "epgId": "Setanta.Sports.2.HD.lv"
+          "epgId": "Setanta.Sports.1.HD.lv"
         },
         {
           "name": "Setanta Sports 2 🇪🇺",
