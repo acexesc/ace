@@ -190,6 +190,14 @@
           "epgfile": "epg_ripper_NL1.xml.gz",
           "epgId": "Ziggo.Sport.2.nl"
         },
+{
+          "name": "Setanta Sports 1 🇪🇺",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
+          "lite": false,
+          "epgfile": "epg_ripper_LV1.xml.gz",
+          "epgId": "Setanta.Sports.2.HD.lv"
+        },
         {
           "name": "Setanta Sports 2 🇪🇺",
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
