@@ -207,9 +207,9 @@
           "epgId": "Setanta.Sports.2.HD.lv"
         },
         {
-          "name": "Dazn 2 🇵🇹",
+          "name": "Dazn 1 🇵🇹",
           "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
-          "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
           "lite": false,
           "epgfile": "epg_ripper_PT1.xml.gz",
           "epgId": "DAZN.2.pt",
