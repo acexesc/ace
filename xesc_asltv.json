@@ -2291,9 +2291,9 @@
   "apks": [
 {
       "name": "AceServe Firestick",
-      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.7-arm.apk",
+      "url": "http://xesc.top:8000/file/org.free.aceserve-1.5.6-arm.apk",
       "armv": 7,
-      "version": "1.5.7",
+      "version": "1.5.6",
       "description": "Motor AceStream ALTERNATIU per FIRESTICK",
       "image": "http://xesc.top:8081/thmb/aceserve.png"
     },
