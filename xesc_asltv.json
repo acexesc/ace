@@ -256,7 +256,7 @@
           "name": "Dazn 1 🇩🇪",
           "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
           "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-          "lite": true,
+          "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
           "epgId": "DAZN.1.de"
         },
@@ -288,7 +288,7 @@
           "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
           "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "Premier.Sports.2.HD.uk"
         }
