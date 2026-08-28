@@ -2321,6 +2321,14 @@
       "description": "Motor AceStream per AndroidTV/GoogleTV",
       "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf-thumbnail.png"
     },
+{
+      "name": "ByeByeDPI Universal",
+      "url": "http://xesc.top:8000/file/ByeByeDPI-v1.7.8-universal-release.apk",
+      "armv": 8,
+      "version": "1.7.8",
+      "description": "Saltar protecció Tebas",
+      "image": "https://raw.githubusercontent.com/romanvht/ByeByeDPI/master/.github/images/app.svg"
+    },
     {
       "name": "ASLTV",
       "url": "http://xesc.top:8000/file/ASLTV.apk",
