@@ -478,7 +478,7 @@
           "lite": false
         },
         {
-          "name": "M+ Champions 4 (MultiChampions)",
+          "name": "M+ MultiChampions 4",
           "image": "http://xesc.top:8081/thmb/chamions4.png",
           "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
           "lite": false,
@@ -486,7 +486,7 @@
           "epgId": "M+.Liga.de.Campeones.4.es"
         },
         {
-          "name": "M+ Champions 4",
+          "name": "M+ MultiChampions 4",
           "url": "acestream://91ac4585368992720ec17ffa5b4389368c6dcac1",
           "lite": false
         },
