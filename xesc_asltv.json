@@ -1778,6 +1778,22 @@
           "epgfile": "epg_ripper_IL1.xml.gz",
           "epgId": "sport_5.il"
         },
+ {
+          "name": "Spor Smart 1 🇹🇷",
+          "image": "https://assets.goal.com/images/v3/bltf1f8226450db8146/cdff15ec63b6dc4ac3eef7c51433d3f87e3afe83.jpg",
+          "url": "acestream://9bc4c83abc04cb94a885e9de9a88aef98285d564",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": "spor_smart_1.tr"
+        },
+ {
+          "name": "Spor Smart 2 🇹🇷",
+          "image": "https://assets.goal.com/images/v3/bltf1f8226450db8146/cdff15ec63b6dc4ac3eef7c51433d3f87e3afe83.jpg",
+          "url": "acestream://d634b448b68285e3fc175ac148c479d130fe4d4d",
+          "lite": false,
+          "epgfile": "epg_ripper_TR1.xml.gz",
+          "epgId": "spor_smart_1.tr"
+        },
         {
           "name": "beIN Sport 1 🇹🇷",
           "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
