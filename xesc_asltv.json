@@ -1384,20 +1384,17 @@
           "epgId": "NBA.TV.HD.us2"
         },
         {
-          "name": "ESPN 1 🇺🇸",
+          "name": "NBA ESPN 🇺🇸",
           "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
-          "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+          "url": "acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
           "epgId": "ESPN.HD.us2"
         },
         {
-          "name": "ESPN 2 🇺🇸",
-          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
-          "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394",
-          "lite": false,
-          "epgfile": "epg_ripper_US2.xml.gz",
-          "epgId": "ESPN2.HD.us2"
+          "name": "NBA ESPN 🇺🇸",
+          "url": "acestream://812726de17b7fdc6c0b5139b012fe336a049903a",
+  "lite": false,
         },
         {
           "name": "FOX SPORTS 1 🇺🇸",
