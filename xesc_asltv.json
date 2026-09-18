@@ -174,6 +174,14 @@
           "lite": false
         },
 {
+          "name": "ESPN on Disney",
+          "image": "https://lasociedaddelcontenido.com/wp-content/uploads/2025/12/r1463716_1296x729_16-9.jpg",
+          "url": "acestream://c60cc0f908ea9f135f9fde01da05768805b66923",
+          "lite": true,
+          "epgfile": "epg_ripper_RU1.xml.gz",
+          "epgId": "match_footll_2.ru"
+        },
+{
           "name": "Match! Football 1 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
