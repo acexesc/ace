@@ -1287,7 +1287,7 @@
         {
           "name": "Movistar+ Baloncesto 1",
           "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
-          "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
+          "url": "acestream://853129258a5cb51f27829eddb934e58b45978344",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_3.es"
