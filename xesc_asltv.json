@@ -1325,7 +1325,7 @@
           "name": "Spor Smart 2 🇹🇷",
           "image": "https://assets.goal.com/images/v3/bltf1f8226450db8146/cdff15ec63b6dc4ac3eef7c51433d3f87e3afe83.jpg",
           "url": "acestream://d634b448b68285e3fc175ac148c479d130fe4d4d",
-          "lite": false,
+          "lite": true,
           "epgfile": "epg_ripper_TR1.xml.gz",
           "epgId": "spor_smart_1.tr"
         },
@@ -1333,7 +1333,7 @@
           "name": "Sport 4 🇮🇱",
           "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
           "url": "acestream://440265fecde5d316e06fea019775208cf4c3feec",
-          "lite": true,
+          "lite": false,
           "epgfile": "epg_ripper_IL1.xml.gz",
           "epgId": "sport_5.il"
         },
