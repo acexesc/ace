@@ -2224,6 +2224,15 @@
           "audiovideo": true
         },
         {
+          "name": "Catalunya Radio Exclusiu",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Catradio_logo1993.png/revision/latest?cb=20170918201205",
+          "url": "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
+          "lite": true,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "esdeveniment_3.es",
+          "audiovideo": true
+        },
+        {
           "name": "Ràdio Badalona",
           "image": "https://ik.imagekit.io/7ftrkrun31/enacast/logos/2018/09/03/LOGO_1400X1400.png?tr=w-1024",
           "url": "http://streaming.enantena.com:8000/radiob128.mp3",
@@ -2373,7 +2382,7 @@
       "description": "Motor AceStream per AndroidTV/GoogleTV",
       "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf-thumbnail.png"
     },
-{
+    {
       "name": "TvGramPlayerNextVPN Universal",
       "url": "http://xesc.top:8000/file/TvGramPlayerNextVpn-TV-v1.1.1-universal-release.apk",
       "armv": 8,
