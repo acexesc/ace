@@ -1201,6 +1201,14 @@
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
           "epgId": "orf_sport_1.at"
+        },
+        {
+          "name": "Eleven 1 🇵🇱",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
+          "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
+          "lite": false,
+          "epgfile": "epg_ripper_PL1.xml.gz",
+          "epgId": "eleven_1.pl"
         }
       ]
     },
