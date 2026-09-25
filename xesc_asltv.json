@@ -1010,7 +1010,7 @@
         },
         {
           "name": "Servus TV 🇦🇹",
-          "image": "https://www.vhv.rs/dpng/d/413-4139973_servus-tv-png-download-servus-tv-hd-logo.png",
+          "image": "https://presse.servustv.com/Content/745872/2eff297d-5300-4c23-8177-eade3fab4ee4/1200/2400/.jpg",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
           "lite": true,
           "epgfile": "epg_ripper_AT1.xml.gz",
@@ -1291,7 +1291,7 @@
         },
         {
           "name": "Sport Klub 🇵🇱",
-          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "image": "https://mediadaily.biz/wp-content/uploads/2021/10/SportKlub.jpg",
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee",
           "lite": true,
           "epgfile": "epg_ripper_PL1.xml.gz",
@@ -1944,7 +1944,7 @@
         },
         {
           "name": "Servus TV 🇦🇹",
-          "image": "https://www.vhv.rs/dpng/d/413-4139973_servus-tv-png-download-servus-tv-hd-logo.png",
+          "image": "https://presse.servustv.com/Content/745872/2eff297d-5300-4c23-8177-eade3fab4ee4/1200/2400/.jpg",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
@@ -1976,7 +1976,7 @@
         },
         {
           "name": "Sport Klub 🇵🇱",
-          "image": "https://tvradiobox.net/wp-content/uploads/2023/03/Sport-Klub.png",
+          "image": "https://mediadaily.biz/wp-content/uploads/2021/10/SportKlub.jpg",
           "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
