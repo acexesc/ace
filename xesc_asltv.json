@@ -1193,6 +1193,14 @@
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
           "epgId": "SkySp.F1.HD.uk"
+        },
+        {
+          "name": "ORF Sport 1 🇦🇹",
+          "image": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
+          "url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974",
+          "lite": false,
+          "epgfile": "epg_ripper_AT1.xml.gz",
+          "epgId": "orf_sport_1.at"
         }
       ]
     },
