@@ -2165,6 +2165,14 @@
           "epgId": "Teledeporte.es"
         },
         {
+          "name": "3CAT Doraemon",
+          "image": "https://www.kindpng.com/picc/m/600-6001825_doraemon-en-transparent-doraemon-logo-png-png-download.png",
+          "url": "https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "Teledeporte.es"
+        },
+        {
           "name": "Rac1",
           "image": "https://www.vectorlogo.es/wp-content/uploads/2016/02/logo-vector-rac1.jpg",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
