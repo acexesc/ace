@@ -174,14 +174,6 @@
           "lite": false
         },
         {
-          "name": "ESPN on Disney",
-          "image": "https://whatsondisneyplus.com/wp-content/uploads/2024/04/espn-on-disney.jpeg",
-          "url": "acestream://c60cc0f908ea9f135f9fde01da05768805b66923",
-          "lite": false,
-          "epgfile": "epg_ripper_RU1.xml.gz",
-          "epgId": "match_footll_2.ru"
-        },
-        {
           "name": "Match! Football 1 🇷🇺",
           "image": "https://head-media.ru/wp-content/uploads/2020/09/match-747x621.jpg",
           "url": "acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
@@ -215,7 +207,7 @@
         },
         {
           "name": "Setanta Sports 1 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "image": "https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
           "lite": false,
           "epgfile": "epg_ripper_LV1.xml.gz",
@@ -223,7 +215,7 @@
         },
         {
           "name": "Setanta Sports 2 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "image": "https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
           "lite": false,
           "epgfile": "epg_ripper_LV1.xml.gz",
@@ -240,7 +232,7 @@
         },
         {
           "name": "Bein Sport 2 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
@@ -301,7 +293,7 @@
         },
         {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",
           "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
@@ -309,7 +301,7 @@
         },
         {
           "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",
           "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
           "lite": true,
           "epgfile": "epg_ripper_UK1.xml.gz",
@@ -805,36 +797,12 @@
           "lite": false
         },
         {
-          "name": "M+ Comedia",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
-          "url": "acestream://bed9a9fc8e9d07a65591c0e8c31cb558a029f985",
-          "lite": false,
-          "epgfile": "epg_ripper_ES1.xml.gz",
-          "epgId": "Movistar.Comedia.es"
-        },
-        {
           "name": "M+ Accion",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQpf3bK8lcZBW6dNMJs5kZ2o-4mpMEdmUXQ&s",
           "url": "acestream://de88ed8716612d9c548df63a168fbdd96843dd20",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "Movistar.Acción.es"
-        },
-        {
-          "name": "M+ Clasicos",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png",
-          "url": "acestream://62b6cdc347e9b5f5aff089055365805e4d20d41e",
-          "lite": false,
-          "epgfile": "epg_ripper_ES1.xml.gz",
-          "epgId": "M+.Clásicos.es"
-        },
-        {
-          "name": "M+ Series",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/960px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
-          "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254",
-          "lite": false,
-          "epgfile": "epg_ripper_ES1.xml.gz",
-          "epgId": "Movistar.Series.es"
         },
         {
           "name": "M+ Golf",
@@ -1042,7 +1010,7 @@
         },
         {
           "name": "Servus TV 🇦🇹",
-          "image": "https://seeklogo.com/images/S/servus-tv-logo-DAA97A7E35-seeklogo.com.png",
+          "image": "https://www.vhv.rs/dpng/d/413-4139973_servus-tv-png-download-servus-tv-hd-logo.png",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
           "lite": true,
           "epgfile": "epg_ripper_AT1.xml.gz",
@@ -1172,7 +1140,7 @@
         },
         {
           "name": "beIN Sport 4 🇹🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
@@ -1188,7 +1156,7 @@
         },
         {
           "name": "F1 TV 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://www.excelsior.com.mx/380x308/filters:format(webp):quality(75)/media/pictures/2025/03/05/3269056.jpg",
+          "image": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png",
           "url": "acestream://627b73d82b9caa6f65ba703f8304bd97daa553eb",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
@@ -1204,7 +1172,7 @@
         },
         {
           "name": "Eleven 1 🇵🇱",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
@@ -1218,7 +1186,7 @@
       "stations": [
         {
           "name": "Dazn ACB 1",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png",
           "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
@@ -1266,7 +1234,7 @@
         },
         {
           "name": "Dazn ACB 2",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png",
           "url": "acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
@@ -1284,7 +1252,7 @@
         },
         {
           "name": "Dazn ACB 3",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+          "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png",
           "url": "acestream://95125f755562c0ffcb44abd94e338bd65472afea",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
@@ -1362,22 +1330,6 @@
           "epgId": "DAZN.3.pt"
         },
         {
-          "name": "FOX Sports 2 🇦🇷",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
-          "url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac",
-          "lite": false,
-          "epgfile": "epg_ripper_AR1.xml.gz",
-          "epgId": "FOX.SPORTS.2.mx"
-        },
-        {
-          "name": "FOX Sports 2 🇧🇷",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
-          "url": "acestream://3bdf355aeaac39d20e368ebb2ed72b9f71bf9090",
-          "lite": false,
-          "epgfile": "epg_ripper_BR1.xml.gz",
-          "epgId": "FOX.SPORTS.2.mx"
-        },
-        {
           "name": "TV Start 🇷🇺",
           "image": "https://r2.thesportsdb.com/images/media/channel/logo/vocmrg1643137294.png",
           "url": "acestream://4b129146077c1e357e4ab341448b9fb629f939dc",
@@ -1430,7 +1382,7 @@
         },
         {
           "name": "FOX SPORTS 1 🇺🇸",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "image": "https://variety.com/wp-content/uploads/2026/05/FOX-Sports-Logo-VR-Featured.jpg",
           "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
@@ -1438,7 +1390,7 @@
         },
         {
           "name": "FOX SPORTS 2 🇺🇸",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "image": "https://variety.com/wp-content/uploads/2026/05/FOX-Sports-Logo-VR-Featured.jpg",
           "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
@@ -1454,7 +1406,7 @@
         },
         {
           "name": "Bein Sport 1 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
           "lite": true,
           "epgfile": "epg_ripper_FR1.xml.gz",
@@ -1478,7 +1430,7 @@
         },
         {
           "name": "Setanta Sports 1 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "image": "https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
           "lite": false,
           "epgfile": "epg_ripper_EU1.xml.gz",
@@ -1548,7 +1500,7 @@
         },
         {
           "name": "Bein Sport 1 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
@@ -1556,7 +1508,7 @@
         },
         {
           "name": "Bein Sport 2 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
@@ -1564,7 +1516,7 @@
         },
         {
           "name": "Bein Sport 3 🇫🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
           "lite": false,
           "epgfile": "epg_ripper_FR1.xml.gz",
@@ -1652,7 +1604,7 @@
         },
         {
           "name": "Eleven 1 🇵🇱",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
@@ -1660,7 +1612,7 @@
         },
         {
           "name": "Eleven 1 4K 🇵🇱",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
@@ -1668,7 +1620,7 @@
         },
         {
           "name": "Eleven 2 🇵🇱",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Elevensports.png",
+          "image": "https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-.png",
           "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9",
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
@@ -1700,7 +1652,7 @@
         },
         {
           "name": "Premier Sports 1 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",
           "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
@@ -1708,7 +1660,7 @@
         },
         {
           "name": "Premier Sports 2 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",
           "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
           "lite": false,
           "epgfile": "epg_ripper_UK1.xml.gz",
@@ -1740,7 +1692,7 @@
         },
         {
           "name": "Setanta Sports 1 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "image": "https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",
           "url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
           "lite": false,
           "epgfile": "epg_ripper_EU1.xml.gz",
@@ -1748,7 +1700,7 @@
         },
         {
           "name": "Setanta Sports 2 🇪🇺",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",
+          "image": "https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png",
           "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
           "lite": false,
           "epgfile": "epg_ripper_EU1.xml.gz",
@@ -1828,7 +1780,7 @@
         },
         {
           "name": "beIN Sport 1 🇹🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://118416583faa3fb4f03800173429b6b844b43a52",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
@@ -1836,7 +1788,7 @@
         },
         {
           "name": "beIN Sport 2 🇹🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
@@ -1844,7 +1796,7 @@
         },
         {
           "name": "beIN Sport 3 🇹🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://ed81c333815247536edfcdb2755147e8c4144d62",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
@@ -1852,7 +1804,7 @@
         },
         {
           "name": "beIN Sport 4 🇹🇷",
-          "image": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+          "image": "https://www.industriadeltenis.com/wp-content/uploads/2016/05/bein-sports.jpg",
           "url": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
           "lite": false,
           "epgfile": "epg_ripper_TR1.xml.gz",
@@ -1960,7 +1912,7 @@
         },
         {
           "name": "RTL+ Sport 🇩🇪",
-          "image": "https://images.seeklogo.com/logo-png/44/1/rtl-logo-png_seeklogo-446003.png",
+          "image": "https://www.horizont.at/news/media/8/RTL-plus-74409.jpeg",
           "url": "acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3",
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
@@ -1992,7 +1944,7 @@
         },
         {
           "name": "Servus TV 🇦🇹",
-          "image": "https://seeklogo.com/images/S/servus-tv-logo-DAA97A7E35-seeklogo.com.png",
+          "image": "https://www.vhv.rs/dpng/d/413-4139973_servus-tv-png-download-servus-tv-hd-logo.png",
           "url": "acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115",
           "lite": false,
           "epgfile": "epg_ripper_AT1.xml.gz",
@@ -2104,7 +2056,7 @@
         },
         {
           "name": "FOX SPORTS 1 🇺🇸",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "image": "https://variety.com/wp-content/uploads/2026/05/FOX-Sports-Logo-VR-Featured.jpg",
           "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
@@ -2112,7 +2064,7 @@
         },
         {
           "name": "FOX SPORTS 2 🇺🇸",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+          "image": "https://variety.com/wp-content/uploads/2026/05/FOX-Sports-Logo-VR-Featured.jpg",
           "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
           "lite": false,
           "epgfile": "epg_ripper_US2.xml.gz",
