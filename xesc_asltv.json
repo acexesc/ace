@@ -1983,6 +1983,38 @@
           "epgId": "sport_klub.pl"
         },
         {
+          "name": "Sport 1 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
+          "url": "acestream://188ae96292ab09ddffa1adf649606cadc77a1c76",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
+        },
+        {
+          "name": "Sport 2 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
+          "url": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
+        },
+        {
+          "name": "Sport 3 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
+          "url": "acestream://e4fe8f324753ec40b2d3a238a64febd68c87cb0a",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
+        },
+        {
+          "name": "Sport 4 🇮🇱",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png",
+          "url": "acestream://440265fecde5d316e06fea019775208cf4c3feec",
+          "lite": false,
+          "epgfile": "epg_ripper_IL1.xml.gz",
+          "epgId": "sport_5.il"
+        },
+        {
           "name": "Sky Sports Main Event 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
           "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
