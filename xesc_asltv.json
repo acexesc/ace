@@ -1025,14 +1025,6 @@
           "epgId": "Ziggo.Sport.nl"
         },
         {
-          "name": "Dazn Eleven 5 🇵🇹",
-          "image": "https://root.vgo-shop.com/pub/Kataloge/Katalog1/Fotos/Small/dazn.png",
-          "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
-          "lite": false,
-          "epgfile": "epg_ripper_PT1.xml.gz",
-          "epgId": "DAZN.5.pt"
-        },
-        {
           "name": "Polsat Sport 1 🇵🇱",
           "image": "https://i.pinimg.com/736x/5e/02/98/5e0298ec48c215fc8e4b816ca141edc4.jpg",
           "url": "acestream://e605bc930e379aa95d3098fbf1730e7a3e77b3ea",
