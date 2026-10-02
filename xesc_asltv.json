@@ -869,7 +869,7 @@
         {
           "name": "Dazn 1",
           "image": "http://xesc.top:8081/thmb/dazn1.png",
-          "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.1.es"
@@ -902,7 +902,7 @@
         {
           "name": "Dazn 2",
           "image": "http://xesc.top:8081/thmb/dazn2.png",
-          "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
+          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.2.es"
