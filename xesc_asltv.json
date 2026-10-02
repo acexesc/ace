@@ -1039,6 +1039,14 @@
           "lite": false,
           "epgfile": "epg_ripper_PL1.xml.gz",
           "epgId": "Polsat.Sport.Premium.2.pl"
+        },
+        {
+          "name": "Magenta Sport 5 🇩🇪",
+          "image": "https://m.media-amazon.com/images/I/61pAdLCxz7L.png",
+          "url": "acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730",
+          "lite": false,
+          "epgfile": "epg_ripper_DE1.xml.gz",
+          "epgId": "magenta_sport_4.de"
         }
       ]
     },
