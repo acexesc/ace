@@ -2135,6 +2135,30 @@
           "epgId": "espn_2.us"
         },
         {
+          "name": "ESPN 1 🇧🇪",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab",
+          "lite": false,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "espn_1.us"
+        },
+        {
+          "name": "ESPN 2 🇧🇪",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63",
+          "lite": false,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "espn_1.us"
+        },
+        {
+          "name": "ESPN 4 🇧🇪",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a",
+          "lite": false,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "espn_1.us"
+        },
+        {
           "name": "FOX SPORTS 1 🇺🇸",
           "image": "https://variety.com/wp-content/uploads/2026/05/FOX-Sports-Logo-VR-Featured.jpg",
           "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
