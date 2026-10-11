@@ -745,6 +745,14 @@
           "lite": false
         },
         {
+          "name": "Vamos 2",
+          "image": "http://xesc.top:8081/thmb/vamos.png",
+          "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+          "lite": true,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "M+.Vamos.es"
+        },
+        {
           "name": "Vamos Ellas",
           "image": "http://xesc.top:8081/thmb/ellasvamos.png",
           "url": "acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f",
