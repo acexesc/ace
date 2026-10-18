@@ -2207,6 +2207,14 @@
           "epgId": "eurosport_2.de"
         },
         {
+          "name": "Eurosport 2 🇷🇺",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",
+          "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+          "lite": false,
+          "epgfile": "epg_ripper_DE1.xml.gz",
+          "epgId": "eurosport_2.de"
+        },
+        {
           "name": "Eurosport 360 1 🇩🇪",
           "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
           "url": "acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c",
