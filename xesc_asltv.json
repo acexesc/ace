@@ -805,6 +805,11 @@
           "lite": false
         },
         {
+          "name": "M+ Plus",
+          "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
+          "lite": false
+        },
+        {
           "name": "M+ Accion",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQpf3bK8lcZBW6dNMJs5kZ2o-4mpMEdmUXQ&s",
           "url": "acestream://de88ed8716612d9c548df63a168fbdd96843dd20",
@@ -2486,7 +2491,7 @@
       "description": "Saltar protecció Tebas",
       "image": "https://cdn-icons-png.flaticon.com/512/10400/10400217.png"
     },
-{
+    {
       "name": "TvGramPlayerNextVPN Mobile",
       "url": "http://xesc.top:8000/file/TvGramPlayerNextVpn-Mobile-v1.1.1-arm64-v8a-release.apk",
       "armv": 8,
