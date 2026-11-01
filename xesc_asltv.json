@@ -19,10 +19,15 @@
         {
           "name": "DAZN LaLiga",
           "image": "http://xesc.top:8081/thmb/daznlaliga1.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "DAZN.LALIGA.es"
+        },
+        {
+          "name": "DAZN LaLiga",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "lite": false
         },
         {
           "name": "DAZN LaLiga",
