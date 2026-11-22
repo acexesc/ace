@@ -1185,7 +1185,7 @@
         {
           "name": "Dazn ACB 1",
           "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png",
-          "url": "acestream://788891525283f541893b809c54d1b9cbe2344dc5",
+          "url": "acestream://dd23f050bfa06aa868adbead83abbde73d1bc7b9",
           "lite": true,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_1.es"
@@ -1198,6 +1198,11 @@
         {
           "name": "Dazn ACB 1",
           "url": "acestream://e5b57c3919b1714f01cb6e5f1812d22aa87bae2b",
+          "lite": false
+        },
+        {
+          "name": "Dazn ACB 1",
+          "url": "acestream://8033aae52386138bac76bd7a16b8c1ab67bcd679",
           "lite": false
         },
         {
