@@ -1373,6 +1373,38 @@
           "epgId": "NBA.TV.HD.us2"
         },
         {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://181701bdaa643087bf99bf9916ede42df6eaf543",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://9821bfd262dd41a791b9cb5175314fa227dc139e",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://8a54321894a268fbc5a8622da77f8d2eed7b8c4d",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA ESPN 🇺🇸",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://cb5a1f48efe2c30db178955bdc2fddf89d547ab4",
+          "lite": false,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "ESPN.HD.us2"
+        },
+        {
           "name": "NBA ESPN 🇺🇸",
           "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url": "acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f",
@@ -2207,6 +2239,30 @@
           "name": "NBA LeaguePass 🇺🇸",
           "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
           "url": "acestream://53c92aafb0dabf38c55b6f3d816f5f10a1977db3",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://181701bdaa643087bf99bf9916ede42df6eaf543",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://9821bfd262dd41a791b9cb5175314fa227dc139e",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://8a54321894a268fbc5a8622da77f8d2eed7b8c4d",
           "lite": true,
           "epgfile": "epg_ripper_US2.xml.gz",
           "epgId": "NBA.TV.HD.us2"
