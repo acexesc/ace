@@ -1365,6 +1365,14 @@
           "epgId": "NBA.TV.HD.us2"
         },
         {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://53c92aafb0dabf38c55b6f3d816f5f10a1977db3",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
+        },
+        {
           "name": "NBA ESPN 🇺🇸",
           "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url": "acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f",
@@ -2194,6 +2202,14 @@
           "lite": false,
           "epgfile": "epg_ripper_DE1.xml.gz",
           "epgId": "eurosport_360_2.de"
+        },
+        {
+          "name": "NBA LeaguePass 🇺🇸",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://53c92aafb0dabf38c55b6f3d816f5f10a1977db3",
+          "lite": true,
+          "epgfile": "epg_ripper_US2.xml.gz",
+          "epgId": "NBA.TV.HD.us2"
         },
         {
           "name": "UFC FightPass",
