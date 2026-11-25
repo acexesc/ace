@@ -1244,20 +1244,38 @@
         {
           "name": "Movistar+ Baloncesto 1",
           "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
-          "url": "acestream://853129258a5cb51f27829eddb934e58b45978344",
+          "url": "acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_3.es"
         },
         {
           "name": "Movistar+ Baloncesto 1",
-          "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+          "url": "acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0",
+          "lite": false
+        },
+        {
+          "name": "Movistar+ Baloncesto 1",
+          "url": "acestream://be93edb36056187656714f66c84026662f483e2f",
+          "lite": false
+        },
+        {
+          "name": "Movistar+ Baloncesto 1",
+          "url": "acestream://4639224a85a8e244acfbf6f7f616e062354cf485",
           "lite": false
         },
         {
           "name": "Movistar+ Baloncesto 2",
           "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
-          "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
+          "url": "acestream://ad50a4fcd5fc51b2fdfaba02216e3e1ee7c310d8",
+          "lite": false,
+          "epgfile": "epg_ripper_ES1.xml.gz",
+          "epgId": "dazn_acb_3.es"
+        },
+        {
+          "name": "Movistar+ Baloncesto 2",
+          "image": "https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo.jpg",
+          "url": "acestream://1aedb9d609bbfec87c2614d126a384a1f0ae136f",
           "lite": false,
           "epgfile": "epg_ripper_ES1.xml.gz",
           "epgId": "dazn_acb_3.es"
